@@ -1,7 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers/domains.list": {
-        "1520773255": [
-            "ads-verify.net",
+        "1520893765": [
             "adsignify.net",
             "authorisationimprint.com",
             "bluesnapper.au",
@@ -32,6 +31,8 @@
             "website-performance-beacon.autotrader.co.uk",
             "yjtag.jp"
         ],
-        "to_test": []
+        "to_test": [
+            "ads-verify.net"
+        ]
     }
 }
