@@ -1,8 +1,10 @@
-# About [quidsup_notrack_trackers]
+# About quidsup_notrack_trackers
 
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers)
 
-[Description]
+```
+NoTrack is a network-wide DNS server which blocks Tracking sites
+```
 
 --------------------------------------------------------------------------------
 
