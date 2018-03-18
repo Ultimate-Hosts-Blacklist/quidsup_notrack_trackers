@@ -1,12 +1,7 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers/domains.list": {
-        "1521119289": [
+        "1521377742": [
             "adsignify.net",
-            "agil1.biz",
-            "agil1.us",
-            "agilone.biz",
-            "agilone.us",
-            "agm1.us",
             "authorisationimprint.com",
             "bluesnapper.au",
             "cmmeglobal.com",
@@ -17,7 +12,6 @@
             "directedat.asia",
             "dmtracking2.alibaba.com",
             "dsywd.com",
-            "erne.co",
             "exhaustionlaurenbremsstrahlung.info",
             "gssprt.jp",
             "guttastatdk.us",
@@ -28,15 +22,15 @@
             "mytrafficvalue.commsedge.net",
             "om.au",
             "riceateastcach.us",
-            "sid-ads.com",
+            "sid-ads.com"
+        ],
+        "to_test": [
             "stat.alibaba.com",
             "sydjyy.com",
             "topquantnetwork.com",
             "vcmedia.vn",
             "website-performance-beacon.autotrader.co.uk",
-            "yjtag.jp"
-        ],
-        "to_test": [
+            "yjtag.jp",
             "ads-verify.net"
         ]
     }
