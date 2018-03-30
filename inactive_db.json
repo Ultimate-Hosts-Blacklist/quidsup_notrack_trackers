@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers/domains.list": {
-        "1522278249": [
+        "1522418970": [
             "ads-verify.net",
             "adsignify.net",
             "authorisationimprint.com",
@@ -17,28 +17,25 @@
             "fogzyads.com",
             "gssprt.jp",
             "guttastatdk.us",
+            "imedia.cz",
             "impact-ad.jp",
             "ioam.de",
             "kau.li",
             "milenar-ads.pt",
             "mytrafficvalue.commsedge.net",
+            "oileddaintiessunset.info",
             "om.au",
             "riceateastcach.us",
             "sid-ads.com",
             "stat.alibaba.com",
-            "sydjyy.com",
+            "sydjyy.com"
+        ],
+        "to_test": [
             "topquantnetwork.com",
             "vcmedia.vn",
             "website-performance-beacon.autotrader.co.uk",
             "yjtag.jp",
-            "agil1.biz",
-            "agil1.us",
-            "agilone.biz",
-            "agilone.us",
-            "agm1.us",
-            "erne.co",
-            "oileddaintiessunset.info"
-        ],
-        "to_test": []
+            "adblockerkillswebsites.pw"
+        ]
     }
 }
