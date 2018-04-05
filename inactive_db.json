@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers/domains.list": {
-        "1522688789": [
+        "1522934769": [
             "adsignify.net",
             "authorisationimprint.com",
             "bluesnapper.au",
@@ -16,7 +16,6 @@
             "fogzyads.com",
             "gssprt.jp",
             "guttastatdk.us",
-            "imedia.cz",
             "impact-ad.jp",
             "ioam.de",
             "kau.li",
@@ -28,12 +27,12 @@
             "sid-ads.com",
             "stat.alibaba.com",
             "sydjyy.com",
-            "topquantnetwork.com",
-            "vcmedia.vn",
-            "website-performance-beacon.autotrader.co.uk",
-            "yjtag.jp"
+            "topquantnetwork.com"
         ],
         "to_test": [
+            "vcmedia.vn",
+            "website-performance-beacon.autotrader.co.uk",
+            "yjtag.jp",
             "ads-verify.net"
         ]
     }
