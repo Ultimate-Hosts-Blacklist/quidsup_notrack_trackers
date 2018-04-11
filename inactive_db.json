@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers/domains.list": {
-        "1523188111": [
+        "1523450001": [
             "52tyd.com",
             "7113653.com",
             "abbp1.science",
@@ -17,7 +17,6 @@
             "adsurity.nl",
             "adverts.itv.com",
             "adweb-connect.net",
-            "adwebconnect.net",
             "adwise.mobi",
             "aetterweb.info",
             "ampaign.click",
@@ -37,7 +36,9 @@
             "clkfeed1007.com",
             "clkfeed1010.com",
             "clkmob.com",
-            "cloud-et-bigdata.com",
+            "cloud-et-bigdata.com"
+        ],
+        "to_test": [
             "cmcm.bid",
             "cmmeglobal.com",
             "coaptru.com",
@@ -391,9 +392,7 @@
             "ys4you.com",
             "ysance-bi-services.com",
             "ysance-integration.com",
-            "ysforyou.com"
-        ],
-        "to_test": [
+            "ysforyou.com",
             "3d-dyj.cn"
         ]
     }
