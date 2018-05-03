@@ -365,9 +365,7 @@
             "stat.alibaba.com",
             "stats.ebay.com",
             "stats.paypal.com",
-            "sto3.spotify.com"
-        ],
-        "to_test": [
+            "sto3.spotify.com",
             "sxxjdz.com",
             "sydjyy.com",
             "telemetry.microsoft.com.nsatc.net",
@@ -395,7 +393,9 @@
             "ys4you.com",
             "ysance-bi-services.com",
             "ysance-integration.com",
-            "ysforyou.com",
+            "ysforyou.com"
+        ],
+        "to_test": [
             "3d-dyj.cn"
         ]
     }
