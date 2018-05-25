@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers/domains.list": {
-        "1526996178": [
+        "1527255449": [
             "52tyd.com",
             "7113653.com",
             "abbp1.science",
@@ -28,10 +28,12 @@
             "audio2.spotify.com",
             "authorisationimprint.com",
             "awesomeoffers247.com",
+            "bidtrk.com",
             "bigbos.top",
-            "bigdata.adups.com",
             "bluesnapper.au",
-            "bundles.api.here.com",
+            "bundles.api.here.com"
+        ],
+        "to_test": [
             "candycarol.com",
             "clickfordeal.click",
             "clickmeter.biz",
@@ -396,9 +398,7 @@
             "ysance-bi-services.com",
             "ysance-integration.com",
             "ysforyou.com",
-            "ywjxsp168.cn"
-        ],
-        "to_test": [
+            "ywjxsp168.cn",
             "3d-dyj.cn"
         ]
     }
