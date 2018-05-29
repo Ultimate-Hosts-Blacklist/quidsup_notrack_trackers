@@ -1,14 +1,15 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers/domains.list": {
-        "1527255449": [
+        "1527600740": [
             "52tyd.com",
             "7113653.com",
+            "8m5sew59gr.bid",
             "abbp1.science",
             "adalyser.net",
-            "adblockerkillswebsites.pw",
             "adfast.org",
             "adflight.net",
             "adgibbon.mobi",
+            "adnexus.nyc",
             "adomify.com",
             "adomify.org",
             "ads-fa.spotify.com",
@@ -17,11 +18,15 @@
             "adsur.it",
             "adsurity.de",
             "adsurity.nl",
+            "advertisingwouldbegreat.com",
             "adverts.itv.com",
             "adweb-connect.net",
             "adwise.mobi",
             "aetterweb.info",
+            "agil1.us",
+            "agilone.us",
             "ampaign.click",
+            "apnex.us",
             "arc3.msn.com",
             "aspirer.xyz",
             "audio-ec.spotify.com",
@@ -31,7 +36,9 @@
             "bidtrk.com",
             "bigbos.top",
             "bluesnapper.au",
-            "bundles.api.here.com",
+            "bundles.api.here.com"
+        ],
+        "to_test": [
             "candycarol.com",
             "clickfordeal.click",
             "clickmeter.biz",
@@ -394,9 +401,7 @@
             "ys4you.com",
             "ysance-bi-services.com",
             "ysance-integration.com",
-            "ysforyou.com"
-        ],
-        "to_test": [
+            "ysforyou.com",
             "3d-dyj.cn"
         ]
     }
