@@ -100,9 +100,7 @@
             "freshmedia.click",
             "friendinsites.com",
             "friendsinsites.com",
-            "fungetbag.info"
-        ],
-        "to_test": [
+            "fungetbag.info",
             "gaheatmaps.com",
             "geoiplookup.wikimedia.org",
             "getphotoeffects.com",
@@ -110,6 +108,7 @@
             "gfsql.geforce.com",
             "gfswl.geforce.com",
             "grfyti.com",
+            "gslb.nyc",
             "gssprt.jp",
             "guttastatdk.us",
             "heads-ec.spotify.com",
@@ -118,6 +117,7 @@
             "helloworldmagic.com",
             "himediads.mobi",
             "himediads.net",
+            "imedia.cz",
             "impact-ad.jp",
             "inetwork.directory",
             "inorbitmedia.com",
@@ -155,7 +155,9 @@
             "mkt1204.com",
             "mkt121.com",
             "mkt1217.com",
-            "mkt126.com",
+            "mkt126.com"
+        ],
+        "to_test": [
             "mkt1418.com",
             "mkt1421.com",
             "mkt1432.com",
