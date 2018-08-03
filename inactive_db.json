@@ -1,15 +1,22 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers/domains.list": {
-        "1532959861": [
+        "1533305429": [
             "52tyd.com",
             "7113653.com",
+            "8m5sew59gr.bid",
             "abbp1.science",
             "adalyser.net",
+            "adblockerkillswebsites.pw",
             "adbrau.com",
             "adfast.org",
             "adflight.net",
             "adflix.club",
             "adgibbon.mobi",
+            "adnexus.nyc",
+            "adnexus.us",
+            "adnxs.biz",
+            "adnxs.nyc",
+            "adnxs.us",
             "adomify.com",
             "adomify.org",
             "ads-fa.spotify.com",
@@ -23,8 +30,21 @@
             "adweb-connect.net",
             "adwise.mobi",
             "aetterweb.info",
+            "agil1.biz",
+            "agil1.us",
+            "agilone.biz",
+            "agilone.us",
+            "agm1.us",
             "ampaign.click",
             "ampmetrics.techcrunch.com",
+            "apnex.us",
+            "apnx.us",
+            "appnex.us",
+            "appnexus.biz",
+            "appnexus.nyc",
+            "appnexus.us",
+            "appnexuscloud.biz",
+            "appnexuscloud.us",
             "arc3.msn.com",
             "aspirer.xyz",
             "audio-ec.spotify.com",
@@ -33,7 +53,9 @@
             "awesomeoffers247.com",
             "bigbos.top",
             "bluesnapper.au",
-            "brandgatekeeper.com",
+            "brandgatekeeper.com"
+        ],
+        "to_test": [
             "bundles.api.here.com",
             "candycarol.com",
             "clickfordeal.click",
@@ -755,9 +777,7 @@
             "ys4you.com",
             "ysance-bi-services.com",
             "ysance-integration.com",
-            "ysforyou.com"
-        ],
-        "to_test": [
+            "ysforyou.com",
             "3d-dyj.cn"
         ]
     }
