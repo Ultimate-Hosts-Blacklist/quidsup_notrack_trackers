@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers/domains.list": {
-        "1536070783": [
+        "1536416893": [
             "3d-dyj.cn",
             "52tyd.com",
             "7113653.com",
@@ -29,6 +29,7 @@
             "airwave.asia",
             "ampaign.click",
             "ampmetrics.techcrunch.com",
+            "analytics.squidhq.com",
             "anreson.net",
             "arc3.msn.com",
             "aspirer.xyz",
@@ -38,7 +39,9 @@
             "awesomeoffers247.com",
             "bigbos.top",
             "bluesnapper.au",
-            "brandgatekeeper.com",
+            "brandgatekeeper.com"
+        ],
+        "to_test": [
             "bundles.api.here.com",
             "candycarol.com",
             "clickfordeal.click",
@@ -84,6 +87,12 @@
             "friendsinsites.com",
             "fungetbag.info",
             "fwfgbhjhnlkv.com",
+            "gaheatmaps.com",
+            "geoiplookup.wikimedia.org",
+            "getphotoeffects.com",
+            "gfe.geforce.com",
+            "gfsql.geforce.com",
+            "gfswl.geforce.com",
             "grfyti.com",
             "gssprt.jp",
             "guttastatdk.us",
@@ -138,6 +147,8 @@
             "mkt1432.com",
             "mkt1476.com",
             "mkt1517.com",
+            "mkt1537.com",
+            "mkt1543.com",
             "mkt1581.com",
             "mkt1591.com",
             "mkt1601.com",
@@ -232,6 +243,7 @@
             "mkt342.com",
             "mkt3488.com",
             "mkt3491.com",
+            "mkt361.com",
             "mkt3724.com",
             "mkt3975.com",
             "mkt4085.com",
@@ -272,6 +284,9 @@
             "mkt938.com",
             "mkt939.com",
             "mkt943.com",
+            "mkt944.com",
+            "mkt945.com",
+            "mkt946.com",
             "mkt947.com",
             "mkt948.com",
             "mkt949.com",
@@ -622,6 +637,13 @@
             "rhextpub26.com",
             "riceateastcach.us",
             "ringringmedia.biz",
+            "rutargeter.com",
+            "securegop.mobi",
+            "securegop.net",
+            "shootnstarzoffers.click",
+            "shuhenelk.com",
+            "sid-ads.com",
+            "smb-store.c66.me",
             "stat.alibaba.com",
             "stats.ebay.com",
             "stats.paypal.com",
@@ -655,27 +677,6 @@
             "ysance-bi-services.com",
             "ysance-integration.com",
             "ysforyou.com"
-        ],
-        "to_test": [
-            "gaheatmaps.com",
-            "geoiplookup.wikimedia.org",
-            "getphotoeffects.com",
-            "gfe.geforce.com",
-            "gfsql.geforce.com",
-            "gfswl.geforce.com",
-            "mkt1537.com",
-            "mkt1543.com",
-            "mkt361.com",
-            "mkt944.com",
-            "mkt945.com",
-            "mkt946.com",
-            "rutargeter.com",
-            "securegop.mobi",
-            "securegop.net",
-            "shootnstarzoffers.click",
-            "shuhenelk.com",
-            "sid-ads.com",
-            "smb-store.c66.me"
         ]
     }
 }
