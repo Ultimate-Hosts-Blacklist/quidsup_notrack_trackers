@@ -3218,7 +3218,7 @@
         "brpx.io": {
             "epoch": "1541203200",
             "expiration_date": "03-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "brvideosummit.com": {
             "epoch": "1550188800",
@@ -3731,9 +3731,9 @@
             "state": "future"
         },
         "chinashoesking.com": {
-            "epoch": "1534032000",
-            "expiration_date": "12-aug-2018",
-            "state": "past"
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "choicestream.com": {
             "epoch": "1581811200",
@@ -4528,7 +4528,7 @@
         "contentfeed.net": {
             "epoch": "1541289600",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "contentquery.net": {
             "epoch": "1560816000",
