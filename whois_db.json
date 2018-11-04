@@ -5913,7 +5913,7 @@
         "ekomi-services.com": {
             "epoch": "1541289600",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "ekomi-turkiye.com": {
             "epoch": "1571616000",
@@ -6930,6 +6930,11 @@
             "expiration_date": "07-jan-2019",
             "state": "future"
         },
+        "gemius.pl": {
+            "epoch": "1557878400",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
         "generalsearches.com": {
             "epoch": "1550188800",
             "expiration_date": "15-feb-2019",
@@ -6981,8 +6986,8 @@
             "state": "future"
         },
         "getdrip.com": {
-            "epoch": "1541289600",
-            "expiration_date": "04-nov-2018",
+            "epoch": "1572825600",
+            "expiration_date": "04-nov-2019",
             "state": "future"
         },
         "getlocalmeasure.com": {
@@ -7511,8 +7516,8 @@
             "state": "future"
         },
         "help24center.com": {
-            "epoch": "1541116800",
-            "expiration_date": "02-nov-2018",
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
             "state": "future"
         },
         "herasawelsov.com": {
@@ -8676,8 +8681,8 @@
             "state": "future"
         },
         "leadboltmobile.net": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
             "state": "future"
         },
         "leadenhancer.com": {
@@ -8883,7 +8888,7 @@
         "lkqd.com": {
             "epoch": "1541289600",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "lkqd.net": {
             "epoch": "1622505600",
