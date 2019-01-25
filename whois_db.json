@@ -4515,6 +4515,11 @@
             "expiration_date": "07-jan-2020",
             "state": "future"
         },
+        "connectad.io": {
+            "epoch": "1592265600",
+            "expiration_date": "16-jun-2020",
+            "state": "future"
+        },
         "connecteddevices.net": {
             "epoch": "1573344000",
             "expiration_date": "10-nov-2019",
@@ -5021,8 +5026,8 @@
             "state": "future"
         },
         "custhelp.com": {
-            "epoch": "1548115200",
-            "expiration_date": "22-jan-2019",
+            "epoch": "1579651200",
+            "expiration_date": "22-jan-2020",
             "state": "future"
         },
         "custom-emailing.com": {
@@ -5251,8 +5256,8 @@
             "state": "future"
         },
         "demdexpartner.com": {
-            "epoch": "1548201600",
-            "expiration_date": "23-jan-2019",
+            "epoch": "1579737600",
+            "expiration_date": "23-jan-2020",
             "state": "future"
         },
         "demdextest.com": {
@@ -5733,7 +5738,7 @@
         "e701.net": {
             "epoch": "1548374400",
             "expiration_date": "25-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "eacdn.com": {
             "epoch": "1618185600",
@@ -6161,9 +6166,9 @@
             "state": "future"
         },
         "emediate.se": {
-            "epoch": "1547683200",
-            "expiration_date": "17-jan-2019",
-            "state": "past"
+            "epoch": "1579219200",
+            "expiration_date": "17-jan-2020",
+            "state": "future"
         },
         "emerse.com": {
             "epoch": "1714694400",
@@ -6826,8 +6831,8 @@
             "state": "future"
         },
         "forter.com": {
-            "epoch": "1548374400",
-            "expiration_date": "25-jan-2019",
+            "epoch": "1579910400",
+            "expiration_date": "25-jan-2020",
             "state": "future"
         },
         "forward-email.com": {
@@ -7136,8 +7141,8 @@
             "state": "future"
         },
         "gloomwrite.com": {
-            "epoch": "1548374400",
-            "expiration_date": "25-jan-2019",
+            "epoch": "1579910400",
+            "expiration_date": "25-jan-2020",
             "state": "future"
         },
         "gmarketing.com": {
@@ -7561,8 +7566,8 @@
             "state": "future"
         },
         "helloworldmail.com": {
-            "epoch": "1548201600",
-            "expiration_date": "23-jan-2019",
+            "epoch": "1579737600",
+            "expiration_date": "23-jan-2020",
             "state": "future"
         },
         "helloworldptqa.com": {
@@ -7991,8 +7996,8 @@
             "state": "future"
         },
         "hw-dev.com": {
-            "epoch": "1548201600",
-            "expiration_date": "23-jan-2019",
+            "epoch": "1579737600",
+            "expiration_date": "23-jan-2020",
             "state": "future"
         },
         "hxtrack.com": {
@@ -8126,8 +8131,8 @@
             "state": "future"
         },
         "impactradius-event.com": {
-            "epoch": "1548115200",
-            "expiration_date": "22-jan-2019",
+            "epoch": "1579651200",
+            "expiration_date": "22-jan-2020",
             "state": "future"
         },
         "impactradius.com": {
@@ -8696,8 +8701,8 @@
             "state": "future"
         },
         "klick2contact.com": {
-            "epoch": "1548288000",
-            "expiration_date": "24-jan-2019",
+            "epoch": "1579824000",
+            "expiration_date": "24-jan-2020",
             "state": "future"
         },
         "klick2contact.mobi": {
@@ -8791,8 +8796,8 @@
             "state": "future"
         },
         "lead-analytics.biz": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
             "state": "future"
         },
         "lead10.com": {
@@ -8896,9 +8901,9 @@
             "state": "future"
         },
         "ligatus.biz": {
-            "epoch": "1544054400",
-            "expiration_date": "06-dec-2018",
-            "state": "past"
+            "epoch": "1575590400",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
         },
         "ligatus.com": {
             "epoch": "1578614400",
@@ -8911,9 +8916,9 @@
             "state": "future"
         },
         "ligatus.us": {
-            "epoch": "1544140800",
-            "expiration_date": "07-dec-2018",
-            "state": "past"
+            "epoch": "1575676800",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
         },
         "lijit.com": {
             "epoch": "1689984000",
