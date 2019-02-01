@@ -98,7 +98,7 @@
         "247inc.net": {
             "epoch": "1548979200",
             "expiration_date": "01-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "247realmedia.com": {
             "epoch": "1572393600",
@@ -1286,9 +1286,9 @@
             "state": "future"
         },
         "adsensecustomsearchads.com": {
-            "epoch": "1548633600",
-            "expiration_date": "28-jan-2019",
-            "state": "past"
+            "epoch": "1580169600",
+            "expiration_date": "28-jan-2020",
+            "state": "future"
         },
         "adserv.com": {
             "epoch": "1577923200",
@@ -1301,8 +1301,8 @@
             "state": "past"
         },
         "adsmobi.com": {
-            "epoch": "1548892800",
-            "expiration_date": "31-jan-2019",
+            "epoch": "1580428800",
+            "expiration_date": "31-jan-2020",
             "state": "future"
         },
         "adsmobi.info": {
@@ -1611,8 +1611,8 @@
             "state": "future"
         },
         "aerserv.com": {
-            "epoch": "1548892800",
-            "expiration_date": "31-jan-2019",
+            "epoch": "1706659200",
+            "expiration_date": "31-jan-2024",
             "state": "future"
         },
         "aetna.com": {
@@ -1891,8 +1891,8 @@
             "state": "future"
         },
         "alnisrgroup.com": {
-            "epoch": "1548979200",
-            "expiration_date": "01-feb-2019",
+            "epoch": "1580515200",
+            "expiration_date": "01-feb-2020",
             "state": "future"
         },
         "alphacampaignmonitor.com": {
@@ -2846,8 +2846,8 @@
             "state": "future"
         },
         "bluecava.com": {
-            "epoch": "1548979200",
-            "expiration_date": "01-feb-2019",
+            "epoch": "1580515200",
+            "expiration_date": "01-feb-2020",
             "state": "future"
         },
         "bluekai.com": {
@@ -3003,6 +3003,11 @@
         "brandedurl.com": {
             "epoch": "1570233600",
             "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "brandmetrics.com": {
+            "epoch": "1566000000",
+            "expiration_date": "17-aug-2019",
             "state": "future"
         },
         "bravo-dog.com": {
@@ -4021,8 +4026,8 @@
             "state": "future"
         },
         "clkads.com": {
-            "epoch": "1548892800",
-            "expiration_date": "31-jan-2019",
+            "epoch": "1580428800",
+            "expiration_date": "31-jan-2020",
             "state": "future"
         },
         "clkbid.com": {
