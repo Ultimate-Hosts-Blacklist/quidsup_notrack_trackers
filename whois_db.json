@@ -4405,6 +4405,11 @@
             "expiration_date": "21-may-2020",
             "state": "future"
         },
+        "comm100.com": {
+            "epoch": "1620345600",
+            "expiration_date": "07-may-2021",
+            "state": "future"
+        },
         "company-target.com": {
             "epoch": "1565049600",
             "expiration_date": "06-aug-2019",
@@ -5205,6 +5210,11 @@
             "expiration_date": "18-may-2018",
             "state": "past"
         },
+        "decenthat.com": {
+            "epoch": "1558828800",
+            "expiration_date": "26-may-2019",
+            "state": "future"
+        },
         "decibelinsight.com": {
             "epoch": "1773446400",
             "expiration_date": "14-mar-2026",
@@ -5256,8 +5266,8 @@
             "state": "future"
         },
         "demdex.com": {
-            "epoch": "1548979200",
-            "expiration_date": "01-feb-2019",
+            "epoch": "1580515200",
+            "expiration_date": "01-feb-2020",
             "state": "future"
         },
         "demdex.net": {
@@ -5546,8 +5556,8 @@
             "state": "future"
         },
         "dmtracker.com": {
-            "epoch": "1548720000",
-            "expiration_date": "29-jan-2019",
+            "epoch": "1580256000",
+            "expiration_date": "29-jan-2020",
             "state": "future"
         },
         "dmtrk.net": {
@@ -7758,6 +7768,11 @@
         "hscta.net": {
             "epoch": "1600387200",
             "expiration_date": "18-sep-2020",
+            "state": "future"
+        },
+        "hsleadflows.net": {
+            "epoch": "1611360000",
+            "expiration_date": "23-jan-2021",
             "state": "future"
         },
         "hsms01.com": {
