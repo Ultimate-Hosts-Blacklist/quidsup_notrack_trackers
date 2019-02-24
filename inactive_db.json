@@ -373,13 +373,7 @@
             "mkt994.com",
             "mkt995.com",
             "mkt996.com",
-            "mkt997.com"
-        ],
-        "to_test": [
-            "cp1.news.com.au",
-            "marketinghub.hp.com",
-            "mkt361.com",
-            "moblander.link",
+            "mkt997.com",
             "mptracking.mobi",
             "msmtrakk02b.com",
             "msmtrakk03b.com",
@@ -452,6 +446,12 @@
             "securegop.mobi",
             "securegop.net",
             "servingclks.com"
+        ],
+        "to_test": [
+            "cp1.news.com.au",
+            "marketinghub.hp.com",
+            "mkt361.com",
+            "moblander.link"
         ]
     }
 }
