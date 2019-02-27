@@ -4215,6 +4215,11 @@
             "expiration_date": "06-jan-2020",
             "state": "future"
         },
+        "clusterconsulting.com.cn": {
+            "epoch": "1567728000",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
         "clusteredcloud.com": {
             "epoch": "1571011200",
             "expiration_date": "14-oct-2019",
@@ -4635,6 +4640,11 @@
             "expiration_date": "13-apr-2019",
             "state": "future"
         },
+        "contentclick.co.uk": {
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
         "contentfeed.net": {
             "epoch": "1572825600",
             "expiration_date": "04-nov-2019",
@@ -4948,6 +4958,11 @@
         "creativelibrary.org": {
             "epoch": "1556841600",
             "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "creatormail.co.uk": {
+            "epoch": "1604016000",
+            "expiration_date": "30-oct-2020",
             "state": "future"
         },
         "crispadvertising.com": {
@@ -7183,7 +7198,7 @@
         "gigabytedealz.com": {
             "epoch": "1551225600",
             "expiration_date": "27-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "gigya.com": {
             "epoch": "1602288000",
@@ -7345,6 +7360,11 @@
             "expiration_date": "07-mar-2019",
             "state": "future"
         },
+        "gpwebsolutions.co.uk": {
+            "epoch": "1561507200",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
         "graf.ly": {
             "epoch": "1555459200",
             "expiration_date": "17-apr-2019",
@@ -7413,6 +7433,11 @@
         "grapeshot.co": {
             "epoch": "1552003200",
             "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
+        "grapeshot.co.uk": {
+            "epoch": "1682985600",
+            "expiration_date": "02-may-2023",
             "state": "future"
         },
         "grapeshot.com": {
@@ -8573,6 +8598,11 @@
         "invoc.us": {
             "epoch": "1560211200",
             "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "ipccdn.co.uk": {
+            "epoch": "1611792000",
+            "expiration_date": "28-jan-2021",
             "state": "future"
         },
         "ipinfo.io": {
