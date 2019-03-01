@@ -399,19 +399,7 @@
             "shootnstarzoffers.click",
             "shqads.com",
             "shuhenelk.com",
-            "sid-ads.com"
-        ],
-        "to_test": [
-            "cp1.news.com.au",
-            "mediahaus.link",
-            "mediaklub.info",
-            "medialander.click",
-            "messages12.com",
-            "messages8.com",
-            "mkt3975.com",
-            "moblander.link",
-            "smb-store.c66.me",
-            "snt4.net",
+            "sid-ads.com",
             "stat.alibaba.com",
             "stats.ebay.com",
             "stats.l.doubleclick.net",
@@ -444,10 +432,22 @@
             "yadsrflowms.com",
             "yjtag.jp",
             "yourbestoffers.click",
-            "ys-game.com",
             "ys4you.com",
             "ysance-bi-services.com",
-            "ysance-integration.com"
+            "ysance-integration.com",
+            "ys-game.com"
+        ],
+        "to_test": [
+            "cp1.news.com.au",
+            "mediahaus.link",
+            "mediaklub.info",
+            "medialander.click",
+            "messages12.com",
+            "messages8.com",
+            "mkt3975.com",
+            "moblander.link",
+            "smb-store.c66.me",
+            "snt4.net"
         ]
     }
 }
