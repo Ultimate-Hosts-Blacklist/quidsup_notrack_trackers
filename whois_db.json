@@ -9133,7 +9133,7 @@
         "liveadexchanger.com": {
             "epoch": "1551744000",
             "expiration_date": "05-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "liveadvert.com": {
             "epoch": "1557446400",
@@ -9666,9 +9666,9 @@
             "state": "future"
         },
         "mellowads.com": {
-            "epoch": "1551571200",
-            "expiration_date": "03-mar-2019",
-            "state": "past"
+            "epoch": "1583193600",
+            "expiration_date": "03-mar-2020",
+            "state": "future"
         },
         "member-hsbc-group.com": {
             "epoch": "1554508800",
@@ -11056,8 +11056,8 @@
             "state": "future"
         },
         "mkt114.com": {
-            "epoch": "1551744000",
-            "expiration_date": "05-mar-2019",
+            "epoch": "1583366400",
+            "expiration_date": "05-mar-2020",
             "state": "future"
         },
         "mkt1140.com": {
