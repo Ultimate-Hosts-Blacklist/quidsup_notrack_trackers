@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers/domains.list": {
-        "1552087592": [
+        "1552234286": [
             "3d-dyj.cn",
             "52tyd.com",
             "7113653.com",
@@ -86,7 +86,9 @@
             "ever-lohas.com",
             "exhaustionlaurenbremsstrahlung.info",
             "fdgkdhfgjkdfgdg.com",
-            "firethepixel.click",
+            "firethepixel.click"
+        ],
+        "to_test": [
             "flamemobi.download",
             "forexzone.org",
             "freshmedia.click",
@@ -658,6 +660,7 @@
             "www.brightroll.org",
             "www.brightrolldsp.com",
             "www.brightrollexchange.com",
+            "www.brightrollmarketplace.com",
             "www.brightrollvideosummit.com",
             "www.brightroulette.com",
             "www.broadband2compare.com",
@@ -3008,9 +3011,6 @@
             "ys4you.com",
             "ysance-bi-services.com",
             "ysance-integration.com"
-        ],
-        "to_test": [
-            "www.brightrollmarketplace.com"
         ]
     }
 }
