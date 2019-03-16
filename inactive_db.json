@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers/domains.list": {
-        "1552580676": [
+        "1552752230": [
             "3d-dyj.cn",
             "52tyd.com",
             "7113653.com",
@@ -52,7 +52,6 @@
             "clickmeter.org",
             "clickmeter.us",
             "clicks4ads.com",
-            "clkexchange.com",
             "clkfeed1007.com",
             "clkfeed1010.com",
             "clkmob.com",
@@ -93,7 +92,10 @@
             "friendinsites.com",
             "friendsinsites.com",
             "fungetbag.info",
-            "fwfgbhjhnlkv.com",
+            "fwfgbhjhnlkv.com"
+        ],
+        "to_test": [
+            "gaheatmaps.com",
             "geoiplookup.wikimedia.org",
             "getphotoeffects.com",
             "gfe.geforce.com",
@@ -3001,9 +3003,6 @@
             "ys4you.com",
             "ysance-bi-services.com",
             "ysance-integration.com"
-        ],
-        "to_test": [
-            "gaheatmaps.com"
         ]
     }
 }

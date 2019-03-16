@@ -26,8 +26,8 @@
             "state": "future"
         },
         "105app.com": {
-            "epoch": "1552608000",
-            "expiration_date": "15-mar-2019",
+            "epoch": "1584230400",
+            "expiration_date": "15-mar-2020",
             "state": "future"
         },
         "10cms.com": {
@@ -3771,9 +3771,9 @@
             "state": "future"
         },
         "chaintraffic.com": {
-            "epoch": "1552521600",
-            "expiration_date": "14-mar-2019",
-            "state": "past"
+            "epoch": "1584144000",
+            "expiration_date": "14-mar-2020",
+            "state": "future"
         },
         "chango.com": {
             "epoch": "1582761600",
@@ -4118,6 +4118,11 @@
         "clkdeals.com": {
             "epoch": "1574208000",
             "expiration_date": "20-nov-2019",
+            "state": "future"
+        },
+        "clkexchange.com": {
+            "epoch": "1615766400",
+            "expiration_date": "15-mar-2021",
             "state": "future"
         },
         "clkfeed.com": {
@@ -5051,9 +5056,9 @@
             "state": "future"
         },
         "cstoa.com": {
-            "epoch": "1552521600",
-            "expiration_date": "14-mar-2019",
-            "state": "past"
+            "epoch": "1584144000",
+            "expiration_date": "14-mar-2020",
+            "state": "future"
         },
         "ctasnet.com": {
             "epoch": "1563321600",
