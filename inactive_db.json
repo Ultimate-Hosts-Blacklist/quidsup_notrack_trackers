@@ -2540,10 +2540,7 @@
             "www.powertheads.com",
             "www.powertheinternet.com",
             "www.preroller.com",
-            "www.prfhn.com"
-        ],
-        "to_test": [
-            "gaheatmaps.com",
+            "www.prfhn.com",
             "www.privatescale.com",
             "www.privatescale.net",
             "www.prnx.net",
@@ -2950,7 +2947,6 @@
             "www.workdesk.click",
             "www.worldwideoffers.net",
             "www.wowcon.net",
-            "www.wpdigital.net",
             "www.wwpxl.com",
             "www.wwwpromoter.com",
             "www.xct32.net",
@@ -3005,6 +3001,9 @@
             "ys4you.com",
             "ysance-bi-services.com",
             "ysance-integration.com"
+        ],
+        "to_test": [
+            "gaheatmaps.com"
         ]
     }
 }
