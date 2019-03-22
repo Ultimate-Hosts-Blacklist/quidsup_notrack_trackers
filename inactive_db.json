@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers/domains.list": {
-        "1553099187": [
+        "1553271132": [
             "3d-dyj.cn",
             "52tyd.com",
             "7113653.com",
@@ -12,6 +12,7 @@
             "adflight.net",
             "adflix.club",
             "adgibbon.mobi",
+            "adio.co",
             "adomify.com",
             "adomify.org",
             "ads-fa.spotify.com",
@@ -70,6 +71,7 @@
             "de.coremetrics.com",
             "dealitright.click",
             "dealzcamp.com",
+            "delivery.inserthtml.com",
             "deviceapps.net",
             "digital-et-crm.com",
             "directedat.asia",
@@ -95,7 +97,9 @@
             "gaheatmaps.com",
             "geoiplookup.wikimedia.org",
             "getphotoeffects.com",
-            "gfe.geforce.com",
+            "gfe.geforce.com"
+        ],
+        "to_test": [
             "gfsql.geforce.com",
             "gfswl.geforce.com",
             "greatestoldupgrading.review",
@@ -608,6 +612,7 @@
             "www.awinanalytics.com",
             "www.awmetrics.com",
             "www.babebrkrflow.com",
+            "www.bandelcot.com",
             "www.bestdealmedia.click",
             "www.bestdealonearth.click",
             "www.betteradserving.com",
@@ -3000,9 +3005,6 @@
             "ys4you.com",
             "ysance-bi-services.com",
             "ysance-integration.com"
-        ],
-        "to_test": [
-            "www.bandelcot.com"
         ]
     }
 }
