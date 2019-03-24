@@ -279,9 +279,7 @@
             "mkt934.com",
             "mkt935.com",
             "mkt936.com",
-            "mkt937.com"
-        ],
-        "to_test": [
+            "mkt937.com",
             "mkt938.com",
             "mkt939.com",
             "mkt943.com",
@@ -416,7 +414,9 @@
             "stats.l.doubleclick.net",
             "stats.paypal.com",
             "stats.royalbank.com",
-            "sto3.spotify.com",
+            "sto3.spotify.com"
+        ],
+        "to_test": [
             "sydjyy.com",
             "telemetry-experiment.cdn.mozilla.net",
             "telemetry.microsoft.com.nsatc.net",
