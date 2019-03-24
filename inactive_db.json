@@ -414,10 +414,7 @@
             "stats.l.doubleclick.net",
             "stats.paypal.com",
             "stats.royalbank.com",
-            "sto3.spotify.com"
-        ],
-        "to_test": [
-            "sydjyy.com",
+            "sto3.spotify.com",
             "telemetry-experiment.cdn.mozilla.net",
             "telemetry.microsoft.com.nsatc.net",
             "therse.info",
@@ -806,7 +803,10 @@
             "www.deltadevconfirmsubscription.com",
             "www.deltadevcreatesend.com",
             "www.deltatestconfirmsubscription.com",
-            "www.deltatestcreatesend.com",
+            "www.deltatestcreatesend.com"
+        ],
+        "to_test": [
+            "sydjyy.com",
             "www.demographicprofiling.com",
             "www.deploycampaignmonitor.com",
             "www.deploycampmon.com",
