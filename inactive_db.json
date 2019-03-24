@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers/domains.list": {
-        "1553271132": [
+        "1553444233": [
             "3d-dyj.cn",
             "52tyd.com",
             "7113653.com",
@@ -98,6 +98,10 @@
             "geoiplookup.wikimedia.org",
             "getphotoeffects.com",
             "gfe.geforce.com",
+            "gfsql.geforce.com",
+            "gfswl.geforce.com"
+        ],
+        "to_test": [
             "greatestoldupgrading.review",
             "grfyti.com",
             "gssprt.jp",
@@ -3008,10 +3012,6 @@
             "ys4you.com",
             "ysance-bi-services.com",
             "ysance-integration.com"
-        ],
-        "to_test": [
-            "gfsql.geforce.com",
-            "gfswl.geforce.com"
         ]
     }
 }
