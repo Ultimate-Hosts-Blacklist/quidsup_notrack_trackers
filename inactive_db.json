@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers/domains.list": {
-        "1553444233": [
+        "1553562479": [
             "3d-dyj.cn",
             "52tyd.com",
             "7113653.com",
@@ -30,6 +30,7 @@
             "airwave.asia",
             "ampaign.click",
             "ampmetrics.techcrunch.com",
+            "analytics.newsinc.com",
             "api.worldsense.com",
             "arc3.msn.com",
             "aspirer.xyz",
@@ -93,7 +94,9 @@
             "friendinsites.com",
             "friendsinsites.com",
             "fungetbag.info",
-            "fwfgbhjhnlkv.com",
+            "fwfgbhjhnlkv.com"
+        ],
+        "to_test": [
             "gaheatmaps.com",
             "geoiplookup.wikimedia.org",
             "getphotoeffects.com",
@@ -415,6 +418,7 @@
             "stats.paypal.com",
             "stats.royalbank.com",
             "sto3.spotify.com",
+            "sydjyy.com",
             "telemetry-experiment.cdn.mozilla.net",
             "telemetry.microsoft.com.nsatc.net",
             "therse.info",
@@ -1414,6 +1418,7 @@
             "www.mkt1940.com",
             "www.mkt1942.com",
             "www.mkt1944.com",
+            "www.mkt1945.com",
             "www.mkt1947.com",
             "www.mkt195.com",
             "www.mkt1952.com",
@@ -3008,10 +3013,6 @@
             "ys4you.com",
             "ysance-bi-services.com",
             "ysance-integration.com"
-        ],
-        "to_test": [
-            "sydjyy.com",
-            "www.mkt1945.com"
         ]
     }
 }
