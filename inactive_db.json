@@ -2658,10 +2658,7 @@
             "www.s3xified.com",
             "www.sail-horizon.com",
             "www.schibsted.io",
-            "www.schibsted.media"
-        ],
-        "to_test": [
-            "gaheatmaps.com",
+            "www.schibsted.media",
             "www.search123.com",
             "www.search2shop.com",
             "www.securegop.mobi",
@@ -2932,6 +2929,7 @@
             "www.vergic.org",
             "www.verityresearchpanel.com",
             "www.verityresearchpanel.net",
+            "www.veruta.com",
             "www.viasrctrafms.com",
             "www.videopostroll.com",
             "www.videopreroll.com",
@@ -2948,6 +2946,7 @@
             "www.webengage.co",
             "www.webrankresearch.com",
             "www.webrankresearch.net",
+            "www.websiteperform.com",
             "www.webspectator.biz",
             "www.webspectator.info",
             "www.webspectator.mobi",
@@ -2962,7 +2961,6 @@
             "www.workdesk.click",
             "www.worldwideoffers.net",
             "www.wowcon.net",
-            "www.wpdigital.net",
             "www.wtp101.com",
             "www.wwpxl.com",
             "www.wwwpromoter.com",
@@ -3018,6 +3016,9 @@
             "ys4you.com",
             "ysance-bi-services.com",
             "ysance-integration.com"
+        ],
+        "to_test": [
+            "gaheatmaps.com"
         ]
     }
 }
