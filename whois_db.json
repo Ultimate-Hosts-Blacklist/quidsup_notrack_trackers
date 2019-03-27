@@ -1460,6 +1460,11 @@
             "expiration_date": "23-aug-2019",
             "state": "future"
         },
+        "adtrackir1.co.uk": {
+            "epoch": "1571097600",
+            "expiration_date": "15-oct-2019",
+            "state": "future"
+        },
         "adtrue.com": {
             "epoch": "1608768000",
             "expiration_date": "24-dec-2020",
@@ -3961,9 +3966,9 @@
             "state": "future"
         },
         "clickshift.com": {
-            "epoch": "1553472000",
-            "expiration_date": "25-mar-2019",
-            "state": "past"
+            "epoch": "1585094400",
+            "expiration_date": "25-mar-2020",
+            "state": "future"
         },
         "clicktale.net": {
             "epoch": "1561075200",
@@ -5738,7 +5743,7 @@
         "doublepimpssl.com": {
             "epoch": "1553644800",
             "expiration_date": "27-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "doubleverify.com": {
             "epoch": "1566086400",
