@@ -416,9 +416,7 @@
             "stats.paypal.com",
             "stats.royalbank.com",
             "sto3.spotify.com",
-            "sydjyy.com"
-        ],
-        "to_test": [
+            "sydjyy.com",
             "telemetry-experiment.cdn.mozilla.net",
             "telemetry.microsoft.com.nsatc.net",
             "therse.info",
@@ -447,7 +445,6 @@
             "www.247realmedia.org",
             "www.254a.com",
             "www.258ydh.com",
-            "www.28ysc.com",
             "www.2znp09oa.com",
             "www.303br.net",
             "www.304br.net",
@@ -816,7 +813,9 @@
             "www.devnexus.net",
             "www.devnxs.net",
             "www.dexometer.com",
-            "www.dianalytics.com",
+            "www.dianalytics.com"
+        ],
+        "to_test": [
             "www.digital-et-crm.com",
             "www.digitalanalyticsdatawarehouse.com",
             "www.digitalanalytix.net",
