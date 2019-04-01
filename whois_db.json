@@ -7720,6 +7720,11 @@
             "expiration_date": "22-jun-2019",
             "state": "future"
         },
+        "header.tech": {
+            "epoch": "1571529600",
+            "expiration_date": "20-oct-2019",
+            "state": "future"
+        },
         "heapanalytics.com": {
             "epoch": "1568246400",
             "expiration_date": "12-sep-2019",
@@ -8366,8 +8371,8 @@
             "state": "future"
         },
         "imrworldwide.com": {
-            "epoch": "1554076800",
-            "expiration_date": "01-apr-2019",
+            "epoch": "1585699200",
+            "expiration_date": "01-apr-2020",
             "state": "future"
         },
         "imshopping.com": {
@@ -8601,9 +8606,9 @@
             "state": "future"
         },
         "intelligencefocus.com": {
-            "epoch": "1553904000",
-            "expiration_date": "30-mar-2019",
-            "state": "past"
+            "epoch": "1585526400",
+            "expiration_date": "30-mar-2020",
+            "state": "future"
         },
         "intellitxt.com": {
             "epoch": "1613260800",
@@ -8818,7 +8823,7 @@
         "justinejones.net": {
             "epoch": "1554076800",
             "expiration_date": "01-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "justinejones.org": {
             "epoch": "1576281600",
@@ -8951,8 +8956,8 @@
             "state": "future"
         },
         "korrelate.com": {
-            "epoch": "1553990400",
-            "expiration_date": "31-mar-2019",
+            "epoch": "1585612800",
+            "expiration_date": "31-mar-2020",
             "state": "future"
         },
         "korrelate.net": {
