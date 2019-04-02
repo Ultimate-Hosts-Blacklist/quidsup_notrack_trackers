@@ -2192,10 +2192,7 @@
             "www.mkt423.com",
             "www.mkt424.com",
             "www.mkt425.com",
-            "www.mkt427.com"
-        ],
-        "to_test": [
-            "geoiplookup.wikimedia.org",
+            "www.mkt427.com",
             "www.mkt452.com",
             "www.mkt454.com",
             "www.mkt460.com",
@@ -2274,7 +2271,10 @@
             "www.mkt836.com",
             "www.mkt838.com",
             "www.mkt8418.com",
-            "www.mkt857.com",
+            "www.mkt857.com"
+        ],
+        "to_test": [
+            "geoiplookup.wikimedia.org",
             "www.mkt859.com",
             "www.mkt873.com",
             "www.mkt874.com",
