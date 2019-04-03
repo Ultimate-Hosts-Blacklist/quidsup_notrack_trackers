@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers/domains.list": {
-        "1554136575": [
+        "1554309470": [
             "3d-dyj.cn",
             "52tyd.com",
             "7113653.com",
@@ -88,7 +88,9 @@
             "exhaustionlaurenbremsstrahlung.info",
             "fdgkdhfgjkdfgdg.com",
             "firethepixel.click",
-            "flamemobi.download",
+            "flamemobi.download"
+        ],
+        "to_test": [
             "forexzone.org",
             "freshmedia.click",
             "friendinsites.com",
@@ -96,6 +98,7 @@
             "fungetbag.info",
             "fwfgbhjhnlkv.com",
             "gaheatmaps.com",
+            "geoiplookup.wikimedia.org",
             "getphotoeffects.com",
             "gfe.geforce.com",
             "gfsql.geforce.com",
@@ -3021,9 +3024,6 @@
             "ys4you.com",
             "ysance-bi-services.com",
             "ysance-integration.com"
-        ],
-        "to_test": [
-            "geoiplookup.wikimedia.org"
         ]
     }
 }
