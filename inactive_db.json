@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers/domains.list": {
-        "1554309470": [
+        "1554481597": [
             "3d-dyj.cn",
             "52tyd.com",
             "7113653.com",
@@ -89,7 +89,9 @@
             "fdgkdhfgjkdfgdg.com",
             "firethepixel.click",
             "flamemobi.download",
-            "forexzone.org",
+            "forexzone.org"
+        ],
+        "to_test": [
             "freshmedia.click",
             "friendinsites.com",
             "friendsinsites.com",
@@ -3024,7 +3026,6 @@
             "ys4you.com",
             "ysance-bi-services.com",
             "ysance-integration.com"
-        ],
-        "to_test": []
+        ]
     }
 }
