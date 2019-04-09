@@ -654,12 +654,9 @@
             "www.bravotestconfirmsubscription.com",
             "www.bravotestcreatesend.com",
             "www.brightcove.net",
-            "www.brightroll.mobi"
-        ],
-        "to_test": [
+            "www.brightroll.mobi",
             "www.brightroll.net",
             "www.brightroll.org",
-            "www.brightrolldsp.com",
             "www.brightrollexchange.com",
             "www.brightrollmarketplace.com",
             "www.brightrollvideosummit.com",
@@ -710,6 +707,7 @@
             "www.clickmeter.us",
             "www.clickmetermail.com",
             "www.clicks4ads.com",
+            "www.clickshift.com",
             "www.clickwindow.com",
             "www.clickwindow.net",
             "www.clientsend.com",
@@ -1155,7 +1153,10 @@
             "www.mkt099.com",
             "www.mkt1000.com",
             "www.mkt1006.com",
-            "www.mkt1009.com",
+            "www.mkt1009.com"
+        ],
+        "to_test": [
+            "www.brightrolldsp.com",
             "www.mkt101.net",
             "www.mkt1012.com",
             "www.mkt1013.com",
