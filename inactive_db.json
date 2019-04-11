@@ -2569,11 +2569,7 @@
             "www.ptvmediaservices.cz",
             "www.pubmine.com",
             "www.pubsqrd.com",
-            "www.pulsemgr.com"
-        ],
-        "to_test": [
-            "fdgkdhfgjkdfgdg.com",
-            "www.mkt1269.com",
+            "www.pulsemgr.com",
             "www.pxi.pub",
             "www.pxlad.io",
             "www.pxlsrv.com",
@@ -2653,6 +2649,7 @@
             "www.rtbconnect.net",
             "www.rtbconnect.org",
             "www.rtbconnect.us",
+            "www.rtbidder.net",
             "www.rtbx.biz",
             "www.rtbx.info",
             "www.rtbx.net",
@@ -3029,6 +3026,10 @@
             "ys4you.com",
             "ysance-bi-services.com",
             "ysance-integration.com"
+        ],
+        "to_test": [
+            "fdgkdhfgjkdfgdg.com",
+            "www.mkt1269.com"
         ]
     }
 }
