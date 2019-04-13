@@ -2773,11 +2773,7 @@
             "www.slashtag.link",
             "www.sli-spark.com",
             "www.smaato.hamburg",
-            "www.smaato.info"
-        ],
-        "to_test": [
-            "gaheatmaps.com",
-            "www.comscorestudies.com",
+            "www.smaato.info",
             "www.smaato.mobi",
             "www.smaato.net",
             "www.smaato.org",
@@ -3028,6 +3024,10 @@
             "ys4you.com",
             "ysance-bi-services.com",
             "ysance-integration.com"
+        ],
+        "to_test": [
+            "gaheatmaps.com",
+            "www.comscorestudies.com"
         ]
     }
 }
