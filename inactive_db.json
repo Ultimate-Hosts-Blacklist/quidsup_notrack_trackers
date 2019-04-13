@@ -415,10 +415,7 @@
             "stats.paypal.com",
             "stats.royalbank.com",
             "sto3.spotify.com",
-            "sydjyy.com"
-        ],
-        "to_test": [
-            "gaheatmaps.com",
+            "sydjyy.com",
             "telemetry-experiment.cdn.mozilla.net",
             "telemetry.microsoft.com.nsatc.net",
             "therse.info",
@@ -752,7 +749,10 @@
             "www.company-target.com",
             "www.comparingmobiles.com",
             "www.comscore.biz",
-            "www.comscoreresearch.net",
+            "www.comscoreresearch.net"
+        ],
+        "to_test": [
+            "gaheatmaps.com",
             "www.comscorestudies.com",
             "www.comscorestudies.net",
             "www.concertbreaks.com",
