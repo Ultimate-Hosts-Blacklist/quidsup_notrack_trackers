@@ -749,11 +749,7 @@
             "www.company-target.com",
             "www.comparingmobiles.com",
             "www.comscore.biz",
-            "www.comscoreresearch.net"
-        ],
-        "to_test": [
-            "gaheatmaps.com",
-            "www.comscorestudies.com",
+            "www.comscoreresearch.net",
             "www.comscorestudies.net",
             "www.concertbreaks.com",
             "www.concerthospitality.com",
@@ -777,6 +773,7 @@
             "www.criteo.net",
             "www.croredbomsmt.com",
             "www.crsspxl.com",
+            "www.cstoa.com",
             "www.ctd001.net",
             "www.ctd002.net",
             "www.ctd003.net",
@@ -843,6 +840,7 @@
             "www.dqna.net",
             "www.drptst.com",
             "www.dsply.com",
+            "www.dsywd.com",
             "www.dtsince.com",
             "www.dtt617kogtcso.cloudfront.net",
             "www.dumedia.ru",
@@ -1355,7 +1353,11 @@
             "www.mkt1687.com",
             "www.mkt1691.com",
             "www.mkt1692.com",
-            "www.mkt1693.com",
+            "www.mkt1693.com"
+        ],
+        "to_test": [
+            "gaheatmaps.com",
+            "www.comscorestudies.com",
             "www.mkt170.com",
             "www.mkt1708.com",
             "www.mkt1709.com",
