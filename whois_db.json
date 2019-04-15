@@ -62613,7 +62613,7 @@
         "seat.it": {
             "epoch": "1555200000",
             "expiration_date": "14-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "seatac15.com": {
             "epoch": "1570406400",
@@ -63961,8 +63961,8 @@
             "state": "future"
         },
         "streamsense.com": {
-            "epoch": "1555286400",
-            "expiration_date": "15-apr-2019",
+            "epoch": "1586908800",
+            "expiration_date": "15-apr-2020",
             "state": "future"
         },
         "strikead.com": {
@@ -64381,8 +64381,8 @@
             "state": "future"
         },
         "terraclicks.com": {
-            "epoch": "1555200000",
-            "expiration_date": "14-apr-2019",
+            "epoch": "1586822400",
+            "expiration_date": "14-apr-2020",
             "state": "future"
         },
         "terrambmsads.com": {
@@ -65326,8 +65326,8 @@
             "state": "future"
         },
         "urbanairship.com": {
-            "epoch": "1555200000",
-            "expiration_date": "14-apr-2019",
+            "epoch": "1586822400",
+            "expiration_date": "14-apr-2020",
             "state": "future"
         },
         "usabilla.com": {
@@ -65568,6 +65568,11 @@
         "vidmark.com": {
             "epoch": "1578009600",
             "expiration_date": "03-jan-2020",
+            "state": "future"
+        },
+        "vidoomy.com": {
+            "epoch": "1771718400",
+            "expiration_date": "22-feb-2026",
             "state": "future"
         },
         "vidyard.com": {
@@ -65941,9 +65946,9 @@
             "state": "future"
         },
         "wemedredmobmsmt.com": {
-            "epoch": "1555113600",
-            "expiration_date": "13-apr-2019",
-            "state": "past"
+            "epoch": "1586736000",
+            "expiration_date": "13-apr-2020",
+            "state": "future"
         },
         "whoisvisiting.com": {
             "epoch": "1585699200",
@@ -65983,6 +65988,11 @@
         "wistia.net": {
             "epoch": "1662076800",
             "expiration_date": "02-sep-2022",
+            "state": "future"
+        },
+        "woltersadvertising.com": {
+            "epoch": "1566864000",
+            "expiration_date": "27-aug-2019",
             "state": "future"
         },
         "woopic.com": {
