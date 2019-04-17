@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers/domains.list": {
-        "1555345870": [
+        "1555519202": [
             "3d-dyj.cn",
             "52tyd.com",
             "7113653.com",
@@ -83,7 +83,9 @@
             "enectoanalytics.com",
             "esla.biz",
             "evelinecourt.com",
-            "evelinecourt.net",
+            "evelinecourt.net"
+        ],
+        "to_test": [
             "ever-lohas.com",
             "exhaustionlaurenbremsstrahlung.info",
             "fdgkdhfgjkdfgdg.com",
@@ -400,6 +402,7 @@
             "rhextpub26.com",
             "riceateastcach.us",
             "ringringmedia.biz",
+            "rutargeter.com",
             "securegop.mobi",
             "securegop.net",
             "servingclks.com",
@@ -3027,9 +3030,6 @@
             "ys4you.com",
             "ysance-bi-services.com",
             "ysance-integration.com"
-        ],
-        "to_test": [
-            "rutargeter.com"
         ]
     }
 }
