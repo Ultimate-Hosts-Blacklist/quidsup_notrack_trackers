@@ -750,10 +750,7 @@
             "www.collective-media.net",
             "www.company-target.com",
             "www.comparingmobiles.com",
-            "www.comscore.biz"
-        ],
-        "to_test": [
-            "gaheatmaps.com",
+            "www.comscore.biz",
             "www.comscoreresearch.net",
             "www.comscorestudies.com",
             "www.comscorestudies.net",
@@ -956,6 +953,7 @@
             "www.goroost.com",
             "www.got2sell.co",
             "www.gotraffic.net",
+            "www.graf.ly",
             "www.grapeshot-apac.com",
             "www.grapeshot-emea.com",
             "www.grapeshot-uk.com",
@@ -1348,7 +1346,10 @@
             "www.mkt1644.com",
             "www.mkt165.com",
             "www.mkt1653.com",
-            "www.mkt1657.com",
+            "www.mkt1657.com"
+        ],
+        "to_test": [
+            "gaheatmaps.com",
             "www.mkt1661.com",
             "www.mkt1666.com",
             "www.mkt1669.com",
