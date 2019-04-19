@@ -267,10 +267,7 @@
             "mkt915.com",
             "mkt916.com",
             "mkt917.com",
-            "mkt919.com"
-        ],
-        "to_test": [
-            "gaheatmaps.com",
+            "mkt919.com",
             "mkt923.com",
             "mkt924.com",
             "mkt925.com",
@@ -417,7 +414,10 @@
             "stats.l.doubleclick.net",
             "stats.paypal.com",
             "stats.royalbank.com",
-            "sto3.spotify.com",
+            "sto3.spotify.com"
+        ],
+        "to_test": [
+            "gaheatmaps.com",
             "sydjyy.com",
             "telemetry-experiment.cdn.mozilla.net",
             "telemetry.microsoft.com.nsatc.net",
