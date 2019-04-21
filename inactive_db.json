@@ -415,10 +415,7 @@
             "stats.paypal.com",
             "stats.royalbank.com",
             "sto3.spotify.com",
-            "sydjyy.com"
-        ],
-        "to_test": [
-            "gaheatmaps.com",
+            "sydjyy.com",
             "telemetry-experiment.cdn.mozilla.net",
             "telemetry.microsoft.com.nsatc.net",
             "therse.info",
@@ -775,7 +772,10 @@
             "www.createsend.gallery",
             "www.createsend.link",
             "www.createsend30.com",
-            "www.creativelibrary.org",
+            "www.creativelibrary.org"
+        ],
+        "to_test": [
+            "gaheatmaps.com",
             "www.criteo.net",
             "www.croredbomsmt.com",
             "www.crsspxl.com",
