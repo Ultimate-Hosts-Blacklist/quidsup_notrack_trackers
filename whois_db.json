@@ -675,6 +675,11 @@
             "expiration_date": "25-sep-2019",
             "state": "future"
         },
+        "adbrau.com": {
+            "epoch": "1587513600",
+            "expiration_date": "22-apr-2020",
+            "state": "future"
+        },
         "adbrn.com": {
             "epoch": "1566345600",
             "expiration_date": "21-aug-2019",
@@ -3666,8 +3671,8 @@
             "state": "future"
         },
         "cash4fundraising.com": {
-            "epoch": "1555977600",
-            "expiration_date": "23-apr-2019",
+            "epoch": "1587600000",
+            "expiration_date": "23-apr-2020",
             "state": "future"
         },
         "cashbackwindow.com": {
@@ -5916,8 +5921,8 @@
             "state": "future"
         },
         "ebayadvertising.com": {
-            "epoch": "1555977600",
-            "expiration_date": "23-apr-2019",
+            "epoch": "1587600000",
+            "expiration_date": "23-apr-2020",
             "state": "future"
         },
         "ebayenterprise.com": {
