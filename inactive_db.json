@@ -2590,12 +2590,7 @@
             "www.razzle.nyc",
             "www.razzledazzle.nyc",
             "www.rdrct.cloud",
-            "www.realads.com"
-        ],
-        "to_test": [
-            "freshmedia.click",
-            "friendinsites.com",
-            "friendsinsites.com",
+            "www.realads.com",
             "www.realmedia.com",
             "www.realtimerelationship.com",
             "www.rebrand.link",
@@ -2975,7 +2970,6 @@
             "www.workdesk.click",
             "www.worldwideoffers.net",
             "www.wowcon.net",
-            "www.wpdigital.net",
             "www.wwpxl.com",
             "www.wwwpromoter.com",
             "www.xct32.net",
@@ -3029,6 +3023,11 @@
             "ys4you.com",
             "ysance-bi-services.com",
             "ysance-integration.com"
+        ],
+        "to_test": [
+            "freshmedia.click",
+            "friendinsites.com",
+            "friendsinsites.com"
         ]
     }
 }
