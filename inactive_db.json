@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers/domains.list": {
-        "1556210638": [
+        "1556384395": [
             "3d-dyj.cn",
             "52tyd.com",
             "7113653.com",
@@ -20,6 +20,7 @@
             "adsignify.net",
             "adsur.it",
             "adsurity.de",
+            "adsurity.fr",
             "adsurity.nl",
             "advertisingwouldbegreat.com",
             "adverts.itv.com",
@@ -84,10 +85,15 @@
             "evelinecourt.com",
             "evelinecourt.net",
             "exhaustionlaurenbremsstrahlung.info",
-            "fdgkdhfgjkdfgdg.com",
+            "fdgkdhfgjkdfgdg.com"
+        ],
+        "to_test": [
             "firethepixel.click",
             "flamemobi.download",
             "forexzone.org",
+            "freshmedia.click",
+            "friendinsites.com",
+            "friendsinsites.com",
             "fungetbag.info",
             "fwfgbhjhnlkv.com",
             "gaheatmaps.com",
@@ -3023,11 +3029,6 @@
             "ys4you.com",
             "ysance-bi-services.com",
             "ysance-integration.com"
-        ],
-        "to_test": [
-            "freshmedia.click",
-            "friendinsites.com",
-            "friendsinsites.com"
         ]
     }
 }
