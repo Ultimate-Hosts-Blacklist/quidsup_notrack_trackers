@@ -415,9 +415,7 @@
             "stats.l.doubleclick.net",
             "stats.paypal.com",
             "stats.royalbank.com",
-            "sto3.spotify.com"
-        ],
-        "to_test": [
+            "sto3.spotify.com",
             "sydjyy.com",
             "telemetry-experiment.cdn.mozilla.net",
             "telemetry.microsoft.com.nsatc.net",
@@ -516,7 +514,6 @@
             "www.adsonar.com",
             "www.adspsp.com",
             "www.adsrvs.com",
-            "www.adsty.com",
             "www.adsur.it",
             "www.adsurity.de",
             "www.adsurity.fr",
@@ -729,7 +726,9 @@
             "www.clusterconsulting.com.cn",
             "www.clusteredcloud.com",
             "www.clusteredcloud.net",
-            "www.cmail.link",
+            "www.cmail.link"
+        ],
+        "to_test": [
             "www.cmail21.com",
             "www.cmail22.com",
             "www.cmail23.com",
