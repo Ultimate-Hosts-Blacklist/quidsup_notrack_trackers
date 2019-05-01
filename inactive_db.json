@@ -2500,12 +2500,7 @@
             "www.onclasrv.com",
             "www.onedmp.com",
             "www.onetag-sys.com",
-            "www.online-metrix.net"
-        ],
-        "to_test": [
-            "rhbnr2010.com",
-            "rhbnr2011.com",
-            "rhextpub26.com",
+            "www.online-metrix.net",
             "www.openadstream.com",
             "www.openadstream.mobi",
             "www.openadstreamcentral.com",
@@ -3032,6 +3027,11 @@
             "ys4you.com",
             "ysance-bi-services.com",
             "ysance-integration.com"
+        ],
+        "to_test": [
+            "rhbnr2010.com",
+            "rhbnr2011.com",
+            "rhextpub26.com"
         ]
     }
 }
