@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers/domains.list": {
-        "1557075429": [
+        "1557247850": [
             "3d-dyj.cn",
             "52tyd.com",
             "7113653.com",
@@ -84,7 +84,9 @@
             "esla.biz",
             "evelinecourt.com",
             "evelinecourt.net",
-            "exhaustionlaurenbremsstrahlung.info",
+            "exhaustionlaurenbremsstrahlung.info"
+        ],
+        "to_test": [
             "fdgkdhfgjkdfgdg.com",
             "firethepixel.click",
             "flamemobi.download",
@@ -3030,7 +3032,6 @@
             "ys4you.com",
             "ysance-bi-services.com",
             "ysance-integration.com"
-        ],
-        "to_test": []
+        ]
     }
 }
