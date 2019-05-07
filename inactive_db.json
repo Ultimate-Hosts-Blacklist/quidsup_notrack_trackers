@@ -646,10 +646,7 @@
             "www.bravocampmon.com",
             "www.bravocreatesend.com",
             "www.bravodevcampaignmonitor.com",
-            "www.bravodevcampmon.com"
-        ],
-        "to_test": [
-            "www.bravodevconfirmsubscription.com",
+            "www.bravodevcampmon.com",
             "www.bravotestcampmon.com",
             "www.bravotestconfirmsubscription.com",
             "www.bravotestcreatesend.com",
@@ -1137,7 +1134,10 @@
             "www.milenar-ads.pt",
             "www.mkt004.com",
             "www.mkt010.com",
-            "www.mkt024.com",
+            "www.mkt024.com"
+        ],
+        "to_test": [
+            "www.bravodevconfirmsubscription.com",
             "www.mkt032.com",
             "www.mkt040.com",
             "www.mkt041.com",
