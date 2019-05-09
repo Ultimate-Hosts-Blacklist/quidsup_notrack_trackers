@@ -2636,10 +2636,7 @@
             "www.rm05.net",
             "www.rm06.net",
             "www.rm09.net",
-            "www.rm10.net"
-        ],
-        "to_test": [
-            "gaheatmaps.com",
+            "www.rm10.net",
             "www.rockabox.co",
             "www.roost.me",
             "www.rsvpgenius.com",
@@ -2854,6 +2851,7 @@
             "www.the-ozone-project.com",
             "www.theatre-breaks.com",
             "www.thebrighttag.com",
+            "www.theresulter.com",
             "www.therse.info",
             "www.thetacdn.net",
             "www.thrtle.com",
@@ -2958,6 +2956,7 @@
             "www.voycme.com",
             "www.vrtztrk.com",
             "www.vvbox.cz",
+            "www.wci-fl.com",
             "www.web-cntr-09.com",
             "www.web-cntr-10.com",
             "www.web-cntr-11.com",
@@ -2978,7 +2977,6 @@
             "www.workdesk.click",
             "www.worldwideoffers.net",
             "www.wowcon.net",
-            "www.wpdigital.net",
             "www.wwpxl.com",
             "www.wwwpromoter.com",
             "www.xct32.net",
@@ -3032,6 +3030,9 @@
             "ys4you.com",
             "ysance-bi-services.com",
             "ysance-integration.com"
+        ],
+        "to_test": [
+            "gaheatmaps.com"
         ]
     }
 }
