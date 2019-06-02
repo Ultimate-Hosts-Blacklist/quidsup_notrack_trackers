@@ -204,7 +204,17 @@
         "expiration_date": "23-feb-2020",
         "state": "future"
     },
+    "mkt091.com": {
+        "epoch": 1582416000,
+        "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
     "mkt1072.com": {
+        "epoch": 1581811200,
+        "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
+    "mkt1096.com": {
         "epoch": 1581811200,
         "expiration_date": "16-feb-2020",
         "state": "future"
@@ -214,7 +224,22 @@
         "expiration_date": "16-feb-2020",
         "state": "future"
     },
+    "mkt1164.com": {
+        "epoch": 1581811200,
+        "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
+    "mkt1227.com": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
     "mkt1231.com": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
+    "mkt1331.com": {
         "epoch": 1581984000,
         "expiration_date": "18-feb-2020",
         "state": "future"
@@ -222,6 +247,11 @@
     "mkt134.com": {
         "epoch": 1573516800,
         "expiration_date": "12-nov-2019",
+        "state": "future"
+    },
+    "mkt1413.com": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
         "state": "future"
     },
     "mkt1414.com": {
@@ -234,12 +264,27 @@
         "expiration_date": "18-feb-2020",
         "state": "future"
     },
+    "mkt1485.com": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
+    "mkt1551.com": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
     "mkt1552.com": {
         "epoch": 1581984000,
         "expiration_date": "18-feb-2020",
         "state": "future"
     },
     "mkt1673.com": {
+        "epoch": 1569801600,
+        "expiration_date": "30-sep-2019",
+        "state": "future"
+    },
+    "mkt1675.com": {
         "epoch": 1569801600,
         "expiration_date": "30-sep-2019",
         "state": "future"
