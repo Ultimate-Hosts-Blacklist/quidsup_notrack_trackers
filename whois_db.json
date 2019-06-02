@@ -624,6 +624,11 @@
         "expiration_date": "08-nov-2022",
         "state": "future"
     },
+    "mdotm.com": {
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
     "mediaplex.com": {
         "epoch": 1581292800,
         "expiration_date": "10-feb-2020",
@@ -3778,5 +3783,7 @@
         "epoch": 1581984000,
         "expiration_date": "18-feb-2020",
         "state": "future"
+    }
+}e"
     }
 }
