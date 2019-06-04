@@ -264,6 +264,11 @@
         "expiration_date": "14-aug-2019",
         "state": "future"
     },
+    "korrelate.net": {
+        "epoch": 1562976000,
+        "expiration_date": "13-jul-2019",
+        "state": "future"
+    },
     "krxd.net": {
         "epoch": 1621296000,
         "expiration_date": "18-may-2021",
@@ -282,6 +287,11 @@
     "lanistaads.com": {
         "epoch": 1571184000,
         "expiration_date": "16-oct-2019",
+        "state": "future"
+    },
+    "latestprizes.com": {
+        "epoch": 1588896000,
+        "expiration_date": "08-may-2020",
         "state": "future"
     },
     "latestprizes.net": {
