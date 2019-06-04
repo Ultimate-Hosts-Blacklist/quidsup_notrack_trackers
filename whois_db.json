@@ -164,6 +164,11 @@
         "expiration_date": "18-may-2021",
         "state": "future"
     },
+    "ksmobile.com": {
+        "epoch": 1688688000,
+        "expiration_date": "07-jul-2023",
+        "state": "future"
+    },
     "lander.click": {
         "epoch": 1573603200,
         "expiration_date": "13-nov-2019",
@@ -172,6 +177,11 @@
     "lanistaads.com": {
         "epoch": 1571184000,
         "expiration_date": "16-oct-2019",
+        "state": "future"
+    },
+    "levexis.com": {
+        "epoch": 1572825600,
+        "expiration_date": "04-nov-2019",
         "state": "future"
     },
     "liadm.com": {
@@ -214,9 +224,19 @@
         "expiration_date": "08-nov-2022",
         "state": "future"
     },
+    "mdotm.com": {
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
     "member-hsbc-group.com": {
         "epoch": 1617667200,
         "expiration_date": "06-apr-2021",
+        "state": "future"
+    },
+    "messages15.com": {
+        "epoch": 1582675200,
+        "expiration_date": "26-feb-2020",
         "state": "future"
     },
     "metricswindow.com": {
