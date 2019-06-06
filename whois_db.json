@@ -619,6 +619,11 @@
         "expiration_date": "24-mar-2019",
         "state": "past"
     },
+    "mkt073.com": {
+        "epoch": 1582416000,
+        "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
     "mkt086.com": {
         "epoch": 1582416000,
         "expiration_date": "23-feb-2020",
