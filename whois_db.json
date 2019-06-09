@@ -929,6 +929,11 @@
         "expiration_date": "18-feb-2020",
         "state": "future"
     },
+    "mkt1480.com": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
     "mkt1482.com": {
         "epoch": 1581984000,
         "expiration_date": "18-feb-2020",
@@ -1250,6 +1255,11 @@
         "state": "future"
     },
     "mkt2194.com": {
+        "epoch": 1580256000,
+        "expiration_date": "29-jan-2020",
+        "state": "future"
+    }
+}    "mkt2194.com": {
         "epoch": 1580256000,
         "expiration_date": "29-jan-2020",
         "state": "future"
