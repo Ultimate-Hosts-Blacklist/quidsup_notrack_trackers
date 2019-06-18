@@ -1,10 +1,19 @@
 {
-    "currently_under_test": "0",
+    "current_stats": {
+        "builds": 1,
+        "counter": {
+            "down": 182,
+            "invalid": 0,
+            "tested": 2204,
+            "up": 2022
+        }
+    },
+    "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Sun Jun 16 22:19:44 2019",
     "end_epoch": 1560723584.083783,
-    "last_autosave_datetime": "Sun Jun 16 21:53:42 2019",
-    "last_autosave_epoch": 1560722022.281669,
+    "last_autosave_datetime": "Tue Jun 18 17:17:57 2019",
+    "last_autosave_epoch": 1560878277.974791,
     "name": "quidsup_notrack_trackers",
     "previous_stats": {
         "builds": 12,
@@ -20,6 +29,6 @@
         "whitelisted.list": 24747
     },
     "raw_link": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt",
-    "start_datetime": "Sun Jun 16 16:55:32 2019",
-    "start_epoch": 1560704132.040852
+    "start_datetime": "Tue Jun 18 17:07:56 2019",
+    "start_epoch": 1560877676.175783
 }

@@ -1,358 +1,58 @@
 {
-    "1560706023.852798": {
-        "domain": "abetterweb.us",
-        "extension": "us"
-    },
-    "1560707769.0324905": {
-        "domain": "www.mobfox.us",
-        "extension": "us"
-    },
-    "1560707769.0436354": {
-        "domain": "mobfox.us",
-        "extension": "us"
-    },
-    "1560707785.8945222": {
-        "domain": "appnexus.us",
-        "extension": "us"
-    },
-    "1560707785.9120724": {
-        "domain": "www.appnexus.us",
-        "extension": "us"
-    },
-    "1560707830.2836766": {
-        "domain": "plista.us",
-        "extension": "us"
-    },
-    "1560707830.3021865": {
-        "domain": "www.plista.us",
-        "extension": "us"
-    },
-    "1560708199.573523": {
-        "domain": "html5nanovisor.us",
-        "extension": "us"
-    },
-    "1560708199.605964": {
-        "domain": "www.html5nanovisor.us",
-        "extension": "us"
-    },
-    "1560709378.948228": {
-        "domain": "www.impb.us",
-        "extension": "us"
-    },
-    "1560709378.959027": {
-        "domain": "impb.us",
-        "extension": "us"
-    },
-    "1560709477.4430997": {
-        "domain": "inmobi.us",
-        "extension": "us"
-    },
-    "1560709477.456867": {
-        "domain": "www.inmobi.us",
-        "extension": "us"
-    },
-    "1560709709.4688697": {
-        "domain": "zanox.tel",
-        "extension": "tel"
-    },
-    "1560709709.5112798": {
-        "domain": "www.zanox.tel",
-        "extension": "tel"
-    },
-    "1560709712.289069": {
-        "domain": "softwaredefinedcdn.us",
-        "extension": "us"
-    },
-    "1560709712.365465": {
-        "domain": "www.softwaredefinedcdn.us",
-        "extension": "us"
-    },
-    "1560709846.0847616": {
-        "domain": "pxlsrv.us",
-        "extension": "us"
-    },
-    "1560709846.124356": {
-        "domain": "www.pxlsrv.us",
-        "extension": "us"
-    },
-    "1560709884.3442945": {
-        "domain": "nano-visor.us",
-        "extension": "us"
-    },
-    "1560709884.3743231": {
-        "domain": "www.nano-visor.us",
-        "extension": "us"
-    },
-    "1560709898.5182848": {
-        "domain": "pimpb.us",
-        "extension": "us"
-    },
-    "1560709898.5412223": {
-        "domain": "www.pimpb.us",
-        "extension": "us"
-    },
-    "1560709915.7176719": {
-        "domain": "agm1.us",
-        "extension": "us"
-    },
-    "1560709915.783902": {
-        "domain": "www.agm1.us",
-        "extension": "us"
-    },
-    "1560711236.536778": {
-        "domain": "www.webspectator.us",
-        "extension": "us"
-    },
-    "1560711236.5799506": {
-        "domain": "webspectator.us",
-        "extension": "us"
-    },
-    "1560711269.2244208": {
-        "domain": "pingmemessenger.us",
-        "extension": "us"
-    },
-    "1560711269.3155506": {
-        "domain": "www.pingmemessenger.us",
-        "extension": "us"
-    },
-    "1560711288.046027": {
-        "domain": "clicktracks.us",
-        "extension": "us"
-    },
-    "1560711288.0635014": {
-        "domain": "www.clicktracks.us",
-        "extension": "us"
-    },
-    "1560711436.6119306": {
-        "domain": "appdynamics.us",
-        "extension": "us"
-    },
-    "1560711436.622106": {
-        "domain": "www.appdynamics.us",
-        "extension": "us"
-    },
-    "1560711526.5758402": {
-        "domain": "nanorep.us",
-        "extension": "us"
-    },
-    "1560711526.594717": {
-        "domain": "www.nanorep.us",
-        "extension": "us"
-    },
-    "1560711688.22551": {
-        "domain": "nanovisor.us",
-        "extension": "us"
-    },
-    "1560711688.2336276": {
-        "domain": "www.nanovisor.us",
-        "extension": "us"
-    },
-    "1560711775.0448778": {
-        "domain": "www.softwaredefinedapplicationdelivery.us",
-        "extension": "us"
-    },
-    "1560711775.0751328": {
-        "domain": "softwaredefinedapplicationdelivery.us",
-        "extension": "us"
-    },
-    "1560712652.0035312": {
-        "domain": "smartadserver.us",
-        "extension": "us"
-    },
-    "1560712652.0441864": {
-        "domain": "www.smartadserver.us",
-        "extension": "us"
-    },
-    "1560712869.9418278": {
-        "domain": "www.adnxs.us",
-        "extension": "us"
-    },
-    "1560712869.958148": {
-        "domain": "adnxs.us",
-        "extension": "us"
-    },
-    "1560712913.7445092": {
-        "domain": "agilone.us",
-        "extension": "us"
-    },
-    "1560712913.7563782": {
-        "domain": "www.agilone.us",
-        "extension": "us"
-    },
-    "1560712962.9180572": {
-        "domain": "rtbconnect.us",
-        "extension": "us"
-    },
-    "1560712962.947526": {
-        "domain": "www.rtbconnect.us",
-        "extension": "us"
-    },
-    "1560713124.1582038": {
-        "domain": "bluevoice.us",
-        "extension": "us"
-    },
-    "1560713124.2169483": {
-        "domain": "www.bluevoice.us",
-        "extension": "us"
-    },
-    "1560713219.325858": {
-        "domain": "www.agil1.us",
-        "extension": "us"
-    },
-    "1560713219.3515327": {
-        "domain": "agil1.us",
-        "extension": "us"
-    },
-    "1560714207.149518": {
-        "domain": "amung.us",
-        "extension": "us"
-    },
-    "1560714207.202739": {
-        "domain": "www.amung.us",
-        "extension": "us"
-    },
-    "1560714287.719418": {
-        "domain": "ekomi.tel",
-        "extension": "tel"
-    },
-    "1560714288.934079": {
-        "domain": "www.rtbx.us",
-        "extension": "us"
-    },
-    "1560714288.9473875": {
-        "domain": "rtbx.us",
-        "extension": "us"
-    },
-    "1560714337.1556172": {
-        "domain": "9nl.us",
-        "extension": "us"
-    },
-    "1560714337.2859132": {
-        "domain": "www.9nl.us",
-        "extension": "us"
-    },
-    "1560714354.0531068": {
-        "domain": "comscore.us",
-        "extension": "us"
-    },
-    "1560714354.0895514": {
-        "domain": "www.comscore.us",
-        "extension": "us"
-    },
-    "1560714492.9834912": {
-        "domain": "invoc.us",
-        "extension": "us"
-    },
-    "1560714493.0154834": {
-        "domain": "www.invoc.us",
-        "extension": "us"
-    },
-    "1560714699.1931367": {
-        "domain": "apnex.us",
-        "extension": "us"
-    },
-    "1560714699.1975474": {
-        "domain": "www.apnex.us",
-        "extension": "us"
-    },
-    "1560715811.7869449": {
-        "domain": "www.rtbc.us",
-        "extension": "us"
-    },
-    "1560715811.8288727": {
-        "domain": "rtbc.us",
-        "extension": "us"
-    },
-    "1560719600.0293763": {
-        "domain": "maintrack.us",
-        "extension": "us"
-    },
-    "1560719600.0851998": {
-        "domain": "www.maintrack.us",
-        "extension": "us"
-    },
-    "1560719644.8433154": {
-        "domain": "radium1.us",
-        "extension": "us"
-    },
-    "1560719644.875329": {
-        "domain": "www.radium1.us",
-        "extension": "us"
-    },
-    "1560719652.6135077": {
-        "domain": "mouseflow.us",
-        "extension": "us"
-    },
-    "1560719652.7023785": {
-        "domain": "www.mouseflow.us",
-        "extension": "us"
-    },
-    "1560719715.9114046": {
-        "domain": "softwaredefinedappdelivery.us",
-        "extension": "us"
-    },
-    "1560719715.9213412": {
+    "1560877750.585442": {
         "domain": "www.softwaredefinedappdelivery.us",
         "extension": "us"
     },
-    "1560719746.6895308": {
-        "domain": "www.clickmeter.us",
+    "1560877750.587845": {
+        "domain": "softwaredefinedappdelivery.us",
         "extension": "us"
     },
-    "1560719746.770785": {
-        "domain": "clickmeter.us",
+    "1560877896.0994618": {
+        "domain": "abetterweb.us",
         "extension": "us"
     },
-    "1560719820.0769095": {
-        "domain": "www.riceateastcach.us",
+    "1560877896.1066153": {
+        "domain": "www.abetterweb.us",
         "extension": "us"
     },
-    "1560719920.4254696": {
-        "domain": "www.mobilens.us",
-        "extension": "us"
+    "1560877917.5260425": {
+        "domain": "ekomi.tel",
+        "extension": "tel"
     },
-    "1560719920.4338734": {
-        "domain": "mobilens.us",
-        "extension": "us"
+    "1560877917.5505724": {
+        "domain": "www.ekomi.tel",
+        "extension": "tel"
     },
-    "1560719949.0295055": {
-        "domain": "ekomi.us",
-        "extension": "us"
-    },
-    "1560719949.098189": {
-        "domain": "www.ekomi.us",
-        "extension": "us"
-    },
-    "1560719949.7809427": {
-        "domain": "www.appnexuscloud.us",
-        "extension": "us"
-    },
-    "1560719949.8102365": {
-        "domain": "appnexuscloud.us",
-        "extension": "us"
-    },
-    "1560721417.5118442": {
-        "domain": "iframes.us",
-        "extension": "us"
-    },
-    "1560721417.5691817": {
-        "domain": "www.iframes.us",
-        "extension": "us"
-    },
-    "1560721786.5064292": {
-        "domain": "zanox.us",
-        "extension": "us"
-    },
-    "1560721786.6357963": {
-        "domain": "www.zanox.us",
-        "extension": "us"
-    },
-    "1560721946.675753": {
+    "1560877999.2182214": {
         "domain": "softwaredefined.us",
         "extension": "us"
     },
-    "1560721946.6921618": {
+    "1560877999.227199": {
         "domain": "www.softwaredefined.us",
+        "extension": "us"
+    },
+    "1560878004.3838658": {
+        "domain": "www.nano-visor.us",
+        "extension": "us"
+    },
+    "1560878004.3964493": {
+        "domain": "nano-visor.us",
+        "extension": "us"
+    },
+    "1560878073.2563298": {
+        "domain": "iframes.us",
+        "extension": "us"
+    },
+    "1560878073.322152": {
+        "domain": "www.iframes.us",
+        "extension": "us"
+    },
+    "1560878245.239489": {
+        "domain": "riceateastcach.us",
+        "extension": "us"
+    },
+    "1560878245.2871482": {
+        "domain": "www.riceateastcach.us",
         "extension": "us"
     }
 }
