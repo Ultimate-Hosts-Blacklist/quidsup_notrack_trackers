@@ -64,6 +64,11 @@
         "expiration_date": "01-mar-2020",
         "state": "future"
     },
+    "addnexus.net": {
+        "epoch": 1583020800,
+        "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
     "adform.net": {
         "epoch": 1695427200,
         "expiration_date": "23-sep-2023",
@@ -92,6 +97,16 @@
     "adlibrary.org": {
         "epoch": 1620000000,
         "expiration_date": "03-may-2021",
+        "state": "future"
+    },
+    "admathhd.com": {
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
+    "admediaclick.com": {
+        "epoch": 1614297600,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "adnxs.biz": {
@@ -134,6 +149,11 @@
         "expiration_date": "07-apr-2020",
         "state": "future"
     },
+    "affiliatewindow.adult": {
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
     "affluencemedia.com": {
         "epoch": 1614816000,
         "expiration_date": "04-mar-2021",
@@ -144,6 +164,11 @@
         "expiration_date": "10-mar-2020",
         "state": "future"
     },
+    "agileradius.com": {
+        "epoch": 1586908800,
+        "expiration_date": "15-apr-2020",
+        "state": "future"
+    },
     "alexametrics.com": {
         "epoch": 1592524800,
         "expiration_date": "19-jun-2020",
@@ -152,6 +177,11 @@
     "algovise.com": {
         "epoch": 1574640000,
         "expiration_date": "25-nov-2019",
+        "state": "future"
+    },
+    "alphaconfirmsubscription.com": {
+        "epoch": 1619827200,
+        "expiration_date": "01-may-2021",
         "state": "future"
     },
     "amgdgt.com": {
@@ -189,6 +219,16 @@
         "expiration_date": "15-nov-2019",
         "state": "future"
     },
+    "appnexis.com": {
+        "epoch": 1568419200,
+        "expiration_date": "14-sep-2019",
+        "state": "future"
+    },
+    "appnexus.asia": {
+        "epoch": 1615507200,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
     "appnexus.biz": {
         "epoch": 1621123200,
         "expiration_date": "16-may-2021",
@@ -197,6 +237,11 @@
     "appnexus.org": {
         "epoch": 1568246400,
         "expiration_date": "12-sep-2019",
+        "state": "future"
+    },
+    "appnexuscloud.biz": {
+        "epoch": 1584403200,
+        "expiration_date": "17-mar-2020",
         "state": "future"
     },
     "appnexuscloud.com": {
@@ -259,12 +304,22 @@
         "expiration_date": "21-jun-2020",
         "state": "future"
     },
+    "awinanalytics.com": {
+        "epoch": 1590537600,
+        "expiration_date": "27-may-2020",
+        "state": "future"
+    },
     "bandelcot.com": {
         "epoch": 1582675200,
         "expiration_date": "26-feb-2020",
         "state": "future"
     },
     "betteradserving.com": {
+        "epoch": 1578528000,
+        "expiration_date": "09-jan-2020",
+        "state": "future"
+    },
+    "bettermarketplaces.com": {
         "epoch": 1578528000,
         "expiration_date": "09-jan-2020",
         "state": "future"
@@ -307,6 +362,11 @@
     "brightrollexchange.com": {
         "epoch": 1580688000,
         "expiration_date": "03-feb-2020",
+        "state": "future"
+    },
+    "brightrollmarketplace.com": {
+        "epoch": 1583366400,
+        "expiration_date": "05-mar-2020",
         "state": "future"
     },
     "brvideosummit.com": {
@@ -369,6 +429,11 @@
         "expiration_date": "12-dec-2019",
         "state": "future"
     },
+    "cedexis-radar.net": {
+        "epoch": 1569542400,
+        "expiration_date": "27-sep-2019",
+        "state": "future"
+    },
     "cedexis-test.com": {
         "epoch": 1625788800,
         "expiration_date": "09-jul-2021",
@@ -404,6 +469,11 @@
         "expiration_date": "06-sep-2019",
         "state": "future"
     },
+    "clusteredcloud.com": {
+        "epoch": 1571011200,
+        "expiration_date": "14-oct-2019",
+        "state": "future"
+    },
     "cmail27.com": {
         "epoch": 1620518400,
         "expiration_date": "09-may-2021",
@@ -414,14 +484,34 @@
         "expiration_date": "09-may-2021",
         "state": "future"
     },
+    "cmail29.com": {
+        "epoch": 1620518400,
+        "expiration_date": "09-may-2021",
+        "state": "future"
+    },
     "cmail30.com": {
         "epoch": 1620518400,
         "expiration_date": "09-may-2021",
         "state": "future"
     },
+    "cnv001.net": {
+        "epoch": 1579824000,
+        "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
     "cnv002.net": {
         "epoch": 1579824000,
         "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
+    "cnv005.net": {
+        "epoch": 1595376000,
+        "expiration_date": "22-jul-2020",
+        "state": "future"
+    },
+    "company-target.com": {
+        "epoch": 1565049600,
+        "expiration_date": "06-aug-2019",
         "state": "future"
     },
     "comscorestudies.com": {
@@ -447,6 +537,16 @@
     "cq.io": {
         "epoch": 1685923200,
         "expiration_date": "05-jun-2023",
+        "state": "future"
+    },
+    "createsend.click": {
+        "epoch": 1795564800,
+        "expiration_date": "25-nov-2026",
+        "state": "future"
+    },
+    "createsend.link": {
+        "epoch": 1588204800,
+        "expiration_date": "30-apr-2020",
         "state": "future"
     },
     "creativelibrary.org": {
@@ -544,6 +644,16 @@
         "expiration_date": "23-jun-2020",
         "state": "future"
     },
+    "dynsrvtbg.com": {
+        "epoch": 1585440000,
+        "expiration_date": "29-mar-2020",
+        "state": "future"
+    },
+    "eacdn.com": {
+        "epoch": 1618185600,
+        "expiration_date": "12-apr-2021",
+        "state": "future"
+    },
     "easyresearch.se": {
         "epoch": 1568678400,
         "expiration_date": "17-sep-2019",
@@ -634,6 +744,11 @@
         "expiration_date": "01-jun-2020",
         "state": "future"
     },
+    "footprintdns.com": {
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
     "fredhopperservices.com": {
         "epoch": 1566864000,
         "expiration_date": "27-aug-2019",
@@ -642,6 +757,11 @@
     "fyre.co": {
         "epoch": 1568419200,
         "expiration_date": "14-sep-2019",
+        "state": "future"
+    },
+    "gall-tarquin.com": {
+        "epoch": 1573257600,
+        "expiration_date": "09-nov-2019",
         "state": "future"
     },
     "geoadnxs.com": {
@@ -677,6 +797,11 @@
     "got2sell.co": {
         "epoch": 1595030400,
         "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
+    "graf.ly": {
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
         "state": "future"
     },
     "grapeshot-emea.com": {
@@ -739,6 +864,11 @@
         "expiration_date": "23-jan-2020",
         "state": "future"
     },
+    "holedusejecdo.info": {
+        "epoch": 1579392000,
+        "expiration_date": "19-jan-2020",
+        "state": "future"
+    },
     "hqcampaign.com": {
         "epoch": 1590624000,
         "expiration_date": "28-may-2020",
@@ -799,9 +929,24 @@
         "expiration_date": "26-oct-2020",
         "state": "future"
     },
+    "inmobiapis.com": {
+        "epoch": 1571788800,
+        "expiration_date": "23-oct-2019",
+        "state": "future"
+    },
     "inq.com": {
         "epoch": 1605830400,
         "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
+    "inscname.net": {
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
+        "state": "future"
+    },
+    "interclick.com": {
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "ipccdn.co.uk": {
@@ -824,9 +969,19 @@
         "expiration_date": "04-jun-2019",
         "state": "past"
     },
+    "jumptap.com": {
+        "epoch": 1623801600,
+        "expiration_date": "16-jun-2021",
+        "state": "future"
+    },
     "jwpltx.com": {
         "epoch": 1565740800,
         "expiration_date": "14-aug-2019",
+        "state": "future"
+    },
+    "korrelate.net": {
+        "epoch": 1594598400,
+        "expiration_date": "13-jul-2020",
         "state": "future"
     },
     "krxd.net": {
@@ -904,6 +1059,11 @@
         "expiration_date": "21-may-2020",
         "state": "future"
     },
+    "lrcdn.net": {
+        "epoch": 1573516800,
+        "expiration_date": "12-nov-2019",
+        "state": "future"
+    },
     "lyrislm.com": {
         "epoch": 1572134400,
         "expiration_date": "27-oct-2019",
@@ -917,6 +1077,16 @@
     "markitcdn.com": {
         "epoch": 1592006400,
         "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
+    "matheranalytics.com": {
+        "epoch": 1571788800,
+        "expiration_date": "23-oct-2019",
+        "state": "future"
+    },
+    "maxgtm.net": {
+        "epoch": 1564012800,
+        "expiration_date": "25-jul-2019",
         "state": "future"
     },
     "maxymiser.net": {
@@ -949,7 +1119,22 @@
         "expiration_date": "23-feb-2020",
         "state": "future"
     },
+    "mkt094.com": {
+        "epoch": 1582416000,
+        "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
+    "mkt096.com": {
+        "epoch": 1582416000,
+        "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
     "mkt097.com": {
+        "epoch": 1582416000,
+        "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
+    "mkt098.com": {
         "epoch": 1582416000,
         "expiration_date": "23-feb-2020",
         "state": "future"
@@ -965,6 +1150,11 @@
         "state": "future"
     },
     "mkt1038.com": {
+        "epoch": 1579564800,
+        "expiration_date": "21-jan-2020",
+        "state": "future"
+    },
+    "mkt1061.com": {
         "epoch": 1579564800,
         "expiration_date": "21-jan-2020",
         "state": "future"
@@ -995,6 +1185,11 @@
         "state": "future"
     },
     "mkt1127.com": {
+        "epoch": 1581811200,
+        "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
+    "mkt1129.com": {
         "epoch": 1581811200,
         "expiration_date": "16-feb-2020",
         "state": "future"
@@ -1044,7 +1239,17 @@
         "expiration_date": "18-feb-2020",
         "state": "future"
     },
+    "mkt1268.com": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
     "mkt1288.com": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
+    "mkt1294.com": {
         "epoch": 1581984000,
         "expiration_date": "18-feb-2020",
         "state": "future"
@@ -1079,6 +1284,11 @@
         "expiration_date": "18-feb-2020",
         "state": "future"
     },
+    "mkt1371.com": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
     "mkt1373.com": {
         "epoch": 1581984000,
         "expiration_date": "18-feb-2020",
@@ -1099,7 +1309,17 @@
         "expiration_date": "18-feb-2020",
         "state": "future"
     },
+    "mkt1435.com": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
     "mkt1437.com": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
+    "mkt1448.com": {
         "epoch": 1581984000,
         "expiration_date": "18-feb-2020",
         "state": "future"
@@ -1119,7 +1339,22 @@
         "expiration_date": "18-feb-2020",
         "state": "future"
     },
+    "mkt1485.com": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
     "mkt1497.com": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
+    "mkt1502.com": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
+    "mkt1504.com": {
         "epoch": 1581984000,
         "expiration_date": "18-feb-2020",
         "state": "future"
@@ -1199,6 +1434,11 @@
         "expiration_date": "30-sep-2019",
         "state": "future"
     },
+    "mkt1770.com": {
+        "epoch": 1569801600,
+        "expiration_date": "30-sep-2019",
+        "state": "future"
+    },
     "mkt1782.com": {
         "epoch": 1569801600,
         "expiration_date": "30-sep-2019",
@@ -1215,6 +1455,11 @@
         "state": "future"
     },
     "mkt1812.com": {
+        "epoch": 1569801600,
+        "expiration_date": "30-sep-2019",
+        "state": "future"
+    },
+    "mkt1814.com": {
         "epoch": 1569801600,
         "expiration_date": "30-sep-2019",
         "state": "future"
@@ -1299,6 +1544,16 @@
         "expiration_date": "17-dec-2019",
         "state": "future"
     },
+    "mkt2035.com": {
+        "epoch": 1576540800,
+        "expiration_date": "17-dec-2019",
+        "state": "future"
+    },
+    "mkt2045.com": {
+        "epoch": 1576540800,
+        "expiration_date": "17-dec-2019",
+        "state": "future"
+    },
     "mkt2052.com": {
         "epoch": 1576540800,
         "expiration_date": "17-dec-2019",
@@ -1319,12 +1574,27 @@
         "expiration_date": "17-dec-2019",
         "state": "future"
     },
+    "mkt2098.com": {
+        "epoch": 1576540800,
+        "expiration_date": "17-dec-2019",
+        "state": "future"
+    },
     "mkt2107.com": {
         "epoch": 1576540800,
         "expiration_date": "17-dec-2019",
         "state": "future"
     },
+    "mkt2128.com": {
+        "epoch": 1576540800,
+        "expiration_date": "17-dec-2019",
+        "state": "future"
+    },
     "mkt2131.com": {
+        "epoch": 1576540800,
+        "expiration_date": "17-dec-2019",
+        "state": "future"
+    },
+    "mkt2167.com": {
         "epoch": 1576540800,
         "expiration_date": "17-dec-2019",
         "state": "future"
@@ -1349,6 +1619,11 @@
         "expiration_date": "29-jan-2020",
         "state": "future"
     },
+    "mkt2271.com": {
+        "epoch": 1580256000,
+        "expiration_date": "29-jan-2020",
+        "state": "future"
+    },
     "mkt2278.com": {
         "epoch": 1580256000,
         "expiration_date": "29-jan-2020",
@@ -1369,7 +1644,17 @@
         "expiration_date": "29-jan-2020",
         "state": "future"
     },
+    "mkt238.com": {
+        "epoch": 1582416000,
+        "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
     "mkt241.com": {
+        "epoch": 1582416000,
+        "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
+    "mkt242.com": {
         "epoch": 1582416000,
         "expiration_date": "23-feb-2020",
         "state": "future"
@@ -1424,6 +1709,16 @@
         "expiration_date": "29-jan-2020",
         "state": "future"
     },
+    "mkt2575.com": {
+        "epoch": 1580256000,
+        "expiration_date": "29-jan-2020",
+        "state": "future"
+    },
+    "mkt2577.com": {
+        "epoch": 1580256000,
+        "expiration_date": "29-jan-2020",
+        "state": "future"
+    },
     "mkt2585.com": {
         "epoch": 1580256000,
         "expiration_date": "29-jan-2020",
@@ -1455,6 +1750,11 @@
         "state": "future"
     },
     "mkt2706.com": {
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "mkt2715.com": {
         "epoch": 1597622400,
         "expiration_date": "17-aug-2020",
         "state": "future"
@@ -1534,6 +1834,11 @@
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
+    "mkt2875.com": {
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
     "mkt2877.com": {
         "epoch": 1597622400,
         "expiration_date": "17-aug-2020",
@@ -1544,7 +1849,17 @@
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
+    "mkt2906.com": {
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
     "mkt2909.com": {
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "mkt2915.com": {
         "epoch": 1597622400,
         "expiration_date": "17-aug-2020",
         "state": "future"
@@ -1565,6 +1880,11 @@
         "state": "future"
     },
     "mkt2937.com": {
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "mkt2943.com": {
         "epoch": 1597622400,
         "expiration_date": "17-aug-2020",
         "state": "future"
@@ -1619,12 +1939,27 @@
         "expiration_date": "21-dec-2019",
         "state": "future"
     },
+    "mkt3023.com": {
+        "epoch": 1576886400,
+        "expiration_date": "21-dec-2019",
+        "state": "future"
+    },
+    "mkt3026.com": {
+        "epoch": 1576886400,
+        "expiration_date": "21-dec-2019",
+        "state": "future"
+    },
     "mkt3034.com": {
         "epoch": 1576886400,
         "expiration_date": "21-dec-2019",
         "state": "future"
     },
     "mkt3058.com": {
+        "epoch": 1576886400,
+        "expiration_date": "21-dec-2019",
+        "state": "future"
+    },
+    "mkt3063.com": {
         "epoch": 1576886400,
         "expiration_date": "21-dec-2019",
         "state": "future"
@@ -1649,7 +1984,17 @@
         "expiration_date": "21-dec-2019",
         "state": "future"
     },
+    "mkt3122.com": {
+        "epoch": 1576886400,
+        "expiration_date": "21-dec-2019",
+        "state": "future"
+    },
     "mkt3129.com": {
+        "epoch": 1576886400,
+        "expiration_date": "21-dec-2019",
+        "state": "future"
+    },
+    "mkt3140.com": {
         "epoch": 1576886400,
         "expiration_date": "21-dec-2019",
         "state": "future"
@@ -1684,6 +2029,11 @@
         "expiration_date": "21-dec-2019",
         "state": "future"
     },
+    "mkt3200.com": {
+        "epoch": 1576886400,
+        "expiration_date": "21-dec-2019",
+        "state": "future"
+    },
     "mkt3205.com": {
         "epoch": 1576886400,
         "expiration_date": "21-dec-2019",
@@ -1692,6 +2042,16 @@
     "mkt3211.com": {
         "epoch": 1576886400,
         "expiration_date": "21-dec-2019",
+        "state": "future"
+    },
+    "mkt3223.com": {
+        "epoch": 1583712000,
+        "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
+    "mkt3224.com": {
+        "epoch": 1583712000,
+        "expiration_date": "09-mar-2020",
         "state": "future"
     },
     "mkt3229.com": {
@@ -1720,6 +2080,11 @@
         "state": "future"
     },
     "mkt3324.com": {
+        "epoch": 1584316800,
+        "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
+    "mkt3329.com": {
         "epoch": 1584316800,
         "expiration_date": "16-mar-2020",
         "state": "future"
@@ -1754,6 +2119,11 @@
         "expiration_date": "16-mar-2020",
         "state": "future"
     },
+    "mkt3374.com": {
+        "epoch": 1584316800,
+        "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
     "mkt3375.com": {
         "epoch": 1584316800,
         "expiration_date": "16-mar-2020",
@@ -1764,7 +2134,22 @@
         "expiration_date": "16-mar-2020",
         "state": "future"
     },
+    "mkt3400.com": {
+        "epoch": 1584316800,
+        "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
     "mkt3401.com": {
+        "epoch": 1584316800,
+        "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
+    "mkt3410.com": {
+        "epoch": 1584316800,
+        "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
+    "mkt3440.com": {
         "epoch": 1584316800,
         "expiration_date": "16-mar-2020",
         "state": "future"
@@ -1780,6 +2165,11 @@
         "state": "future"
     },
     "mkt3511.com": {
+        "epoch": 1586131200,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "mkt3512.com": {
         "epoch": 1586131200,
         "expiration_date": "06-apr-2020",
         "state": "future"
@@ -1824,6 +2214,16 @@
         "expiration_date": "13-sep-2019",
         "state": "future"
     },
+    "mkt3645.com": {
+        "epoch": 1568332800,
+        "expiration_date": "13-sep-2019",
+        "state": "future"
+    },
+    "mkt3651.com": {
+        "epoch": 1568332800,
+        "expiration_date": "13-sep-2019",
+        "state": "future"
+    },
     "mkt3653.com": {
         "epoch": 1568332800,
         "expiration_date": "13-sep-2019",
@@ -1844,6 +2244,11 @@
         "expiration_date": "13-sep-2019",
         "state": "future"
     },
+    "mkt3678.com": {
+        "epoch": 1568332800,
+        "expiration_date": "13-sep-2019",
+        "state": "future"
+    },
     "mkt3685.com": {
         "epoch": 1568332800,
         "expiration_date": "13-sep-2019",
@@ -1859,6 +2264,16 @@
         "expiration_date": "13-sep-2019",
         "state": "future"
     },
+    "mkt3704.com": {
+        "epoch": 1568332800,
+        "expiration_date": "13-sep-2019",
+        "state": "future"
+    },
+    "mkt3705.com": {
+        "epoch": 1568332800,
+        "expiration_date": "13-sep-2019",
+        "state": "future"
+    },
     "mkt3707.com": {
         "epoch": 1568332800,
         "expiration_date": "13-sep-2019",
@@ -1869,7 +2284,17 @@
         "expiration_date": "13-sep-2019",
         "state": "future"
     },
+    "mkt3715.com": {
+        "epoch": 1568332800,
+        "expiration_date": "13-sep-2019",
+        "state": "future"
+    },
     "mkt3718.com": {
+        "epoch": 1568332800,
+        "expiration_date": "13-sep-2019",
+        "state": "future"
+    },
+    "mkt3722.com": {
         "epoch": 1568332800,
         "expiration_date": "13-sep-2019",
         "state": "future"
@@ -1899,6 +2324,11 @@
         "expiration_date": "13-sep-2019",
         "state": "future"
     },
+    "mkt3757.com": {
+        "epoch": 1568332800,
+        "expiration_date": "13-sep-2019",
+        "state": "future"
+    },
     "mkt3770.com": {
         "epoch": 1568332800,
         "expiration_date": "13-sep-2019",
@@ -1909,9 +2339,24 @@
         "expiration_date": "13-sep-2019",
         "state": "future"
     },
+    "mkt3807.com": {
+        "epoch": 1568332800,
+        "expiration_date": "13-sep-2019",
+        "state": "future"
+    },
     "mkt383.com": {
         "epoch": 1585526400,
         "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
+    "mkt3833.com": {
+        "epoch": 1568332800,
+        "expiration_date": "13-sep-2019",
+        "state": "future"
+    },
+    "mkt3835.com": {
+        "epoch": 1568332800,
+        "expiration_date": "13-sep-2019",
         "state": "future"
     },
     "mkt3846.com": {
@@ -1964,12 +2409,22 @@
         "expiration_date": "03-jan-2020",
         "state": "future"
     },
+    "mkt3937.com": {
+        "epoch": 1578009600,
+        "expiration_date": "03-jan-2020",
+        "state": "future"
+    },
     "mkt3948.com": {
         "epoch": 1578009600,
         "expiration_date": "03-jan-2020",
         "state": "future"
     },
     "mkt3951.com": {
+        "epoch": 1578009600,
+        "expiration_date": "03-jan-2020",
+        "state": "future"
+    },
+    "mkt3958.com": {
         "epoch": 1578009600,
         "expiration_date": "03-jan-2020",
         "state": "future"
@@ -1994,12 +2449,27 @@
         "expiration_date": "03-jan-2020",
         "state": "future"
     },
+    "mkt4009.com": {
+        "epoch": 1578009600,
+        "expiration_date": "03-jan-2020",
+        "state": "future"
+    },
     "mkt4017.com": {
         "epoch": 1578009600,
         "expiration_date": "03-jan-2020",
         "state": "future"
     },
     "mkt4046.com": {
+        "epoch": 1578009600,
+        "expiration_date": "03-jan-2020",
+        "state": "future"
+    },
+    "mkt4047.com": {
+        "epoch": 1578009600,
+        "expiration_date": "03-jan-2020",
+        "state": "future"
+    },
+    "mkt4055.com": {
         "epoch": 1578009600,
         "expiration_date": "03-jan-2020",
         "state": "future"
@@ -2089,6 +2559,16 @@
         "expiration_date": "16-may-2020",
         "state": "future"
     },
+    "mkt603.com": {
+        "epoch": 1589587200,
+        "expiration_date": "16-may-2020",
+        "state": "future"
+    },
+    "mkt610.com": {
+        "epoch": 1589587200,
+        "expiration_date": "16-may-2020",
+        "state": "future"
+    },
     "mkt614.com": {
         "epoch": 1589587200,
         "expiration_date": "16-may-2020",
@@ -2124,6 +2604,16 @@
         "expiration_date": "16-jul-2020",
         "state": "future"
     },
+    "mkt785.com": {
+        "epoch": 1594857600,
+        "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
+    "mkt798.com": {
+        "epoch": 1569110400,
+        "expiration_date": "22-sep-2019",
+        "state": "future"
+    },
     "mkt874.com": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
@@ -2154,6 +2644,11 @@
         "expiration_date": "08-jun-2020",
         "state": "future"
     },
+    "mkt8980.com": {
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
     "mkt8991.com": {
         "epoch": 1593907200,
         "expiration_date": "05-jul-2020",
@@ -2162,6 +2657,11 @@
     "mkt8992.com": {
         "epoch": 1593907200,
         "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
+    "mkt904.com": {
+        "epoch": 1569110400,
+        "expiration_date": "22-sep-2019",
         "state": "future"
     },
     "mkt980.com": {
@@ -2209,6 +2709,11 @@
         "expiration_date": "17-nov-2019",
         "state": "future"
     },
+    "mouseflow.net": {
+        "epoch": 1612224000,
+        "expiration_date": "02-feb-2021",
+        "state": "future"
+    },
     "mxpnl.com": {
         "epoch": 1754006400,
         "expiration_date": "01-aug-2025",
@@ -2239,6 +2744,16 @@
         "expiration_date": "04-mar-2020",
         "state": "future"
     },
+    "nfltags.com": {
+        "epoch": 1619827200,
+        "expiration_date": "01-may-2021",
+        "state": "future"
+    },
+    "nicecdn01.com": {
+        "epoch": 1575936000,
+        "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
     "ninjapd.com": {
         "epoch": 1592611200,
         "expiration_date": "20-jun-2020",
@@ -2249,7 +2764,17 @@
         "expiration_date": "16-nov-2021",
         "state": "future"
     },
+    "novao.net": {
+        "epoch": 1566604800,
+        "expiration_date": "24-aug-2019",
+        "state": "future"
+    },
     "oas-central.com": {
+        "epoch": 1582329600,
+        "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
+    "oas-central.net": {
         "epoch": 1582329600,
         "expiration_date": "22-feb-2020",
         "state": "future"
@@ -2257,6 +2782,11 @@
     "oasnexus.com": {
         "epoch": 1610409600,
         "expiration_date": "12-jan-2021",
+        "state": "future"
+    },
+    "omgt4.com": {
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
         "state": "future"
     },
     "onedmp.com": {
@@ -2272,6 +2802,11 @@
     "openxenterprise.com": {
         "epoch": 1600732800,
         "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
+    "pagefair.net": {
+        "epoch": 1591833600,
+        "expiration_date": "11-jun-2020",
         "state": "future"
     },
     "perfb.com": {
@@ -2319,6 +2854,11 @@
         "expiration_date": "15-apr-2021",
         "state": "future"
     },
+    "pulsemgr.com": {
+        "epoch": 1627171200,
+        "expiration_date": "25-jul-2021",
+        "state": "future"
+    },
     "pxlsrv.net": {
         "epoch": 1624579200,
         "expiration_date": "25-jun-2021",
@@ -2359,6 +2899,11 @@
         "expiration_date": "10-aug-2021",
         "state": "future"
     },
+    "rebrand.link": {
+        "epoch": 1568332800,
+        "expiration_date": "13-sep-2019",
+        "state": "future"
+    },
     "rebrand.today": {
         "epoch": 1568332800,
         "expiration_date": "13-sep-2019",
@@ -2367,6 +2912,11 @@
     "reckintersupwas.info": {
         "epoch": 1580515200,
         "expiration_date": "01-feb-2020",
+        "state": "future"
+    },
+    "redzumsmtva.com": {
+        "epoch": 1586736000,
+        "expiration_date": "13-apr-2020",
         "state": "future"
     },
     "rename.net": {
@@ -2390,6 +2940,11 @@
         "state": "future"
     },
     "rm04.net": {
+        "epoch": 1570147200,
+        "expiration_date": "04-oct-2019",
+        "state": "future"
+    },
+    "rm05.net": {
         "epoch": 1570147200,
         "expiration_date": "04-oct-2019",
         "state": "future"
@@ -2454,6 +3009,16 @@
         "expiration_date": "01-jan-2020",
         "state": "future"
     },
+    "sail-horizon.com": {
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "semasio.net": {
+        "epoch": 1572825600,
+        "expiration_date": "04-nov-2019",
+        "state": "future"
+    },
     "senalcinco.com": {
         "epoch": 1618704000,
         "expiration_date": "18-apr-2021",
@@ -2479,12 +3044,37 @@
         "expiration_date": "22-sep-2020",
         "state": "future"
     },
+    "shoppingshadow.com": {
+        "epoch": 1582502400,
+        "expiration_date": "24-feb-2020",
+        "state": "future"
+    },
+    "sidekickopen01.com": {
+        "epoch": 1589155200,
+        "expiration_date": "11-may-2020",
+        "state": "future"
+    },
+    "sidekickopen08.com": {
+        "epoch": 1589155200,
+        "expiration_date": "11-may-2020",
+        "state": "future"
+    },
     "sidekickopen09.com": {
         "epoch": 1589155200,
         "expiration_date": "11-may-2020",
         "state": "future"
     },
     "sidekickopen16.com": {
+        "epoch": 1625184000,
+        "expiration_date": "02-jul-2021",
+        "state": "future"
+    },
+    "sidekickopen17.com": {
+        "epoch": 1625184000,
+        "expiration_date": "02-jul-2021",
+        "state": "future"
+    },
+    "sidekickopen20.com": {
         "epoch": 1625184000,
         "expiration_date": "02-jul-2021",
         "state": "future"
@@ -2497,6 +3087,16 @@
     "sidekickopen25.com": {
         "epoch": 1627948800,
         "expiration_date": "03-aug-2021",
+        "state": "future"
+    },
+    "sidekickopen29.com": {
+        "epoch": 1627948800,
+        "expiration_date": "03-aug-2021",
+        "state": "future"
+    },
+    "sidekickopen32.com": {
+        "epoch": 1571443200,
+        "expiration_date": "19-oct-2019",
         "state": "future"
     },
     "sidekickopen36.com": {
@@ -2512,6 +3112,11 @@
     "sidekickopen38.com": {
         "epoch": 1571443200,
         "expiration_date": "19-oct-2019",
+        "state": "future"
+    },
+    "sidekickopen51.com": {
+        "epoch": 1584316800,
+        "expiration_date": "16-mar-2020",
         "state": "future"
     },
     "sidekickopen54.com": {
@@ -2534,6 +3139,11 @@
         "expiration_date": "16-mar-2020",
         "state": "future"
     },
+    "sidekickopen68.com": {
+        "epoch": 1584316800,
+        "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
     "signalecinque.com": {
         "epoch": 1574121600,
         "expiration_date": "19-nov-2019",
@@ -2550,6 +3160,11 @@
         "state": "future"
     },
     "signauxneuf.com": {
+        "epoch": 1626652800,
+        "expiration_date": "19-jul-2021",
+        "state": "future"
+    },
+    "signauxsix.com": {
         "epoch": 1626652800,
         "expiration_date": "19-jul-2021",
         "state": "future"
@@ -2584,7 +3199,17 @@
         "expiration_date": "11-sep-2019",
         "state": "future"
     },
+    "smaato.info": {
+        "epoch": 1583539200,
+        "expiration_date": "07-mar-2020",
+        "state": "future"
+    },
     "smaato.net": {
+        "epoch": 1589587200,
+        "expiration_date": "16-may-2020",
+        "state": "future"
+    },
+    "smaato.org": {
         "epoch": 1589587200,
         "expiration_date": "16-may-2020",
         "state": "future"
@@ -2659,6 +3284,11 @@
         "expiration_date": "14-mar-2020",
         "state": "future"
     },
+    "surveyrocket.com": {
+        "epoch": 1606348800,
+        "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
     "surveysitemail.com": {
         "epoch": 1593475200,
         "expiration_date": "30-jun-2020",
@@ -2692,6 +3322,11 @@
     "tapjoyads.com": {
         "epoch": 1609545600,
         "expiration_date": "02-jan-2021",
+        "state": "future"
+    },
+    "terrambmsads.com": {
+        "epoch": 1574640000,
+        "expiration_date": "25-nov-2019",
         "state": "future"
     },
     "testanalytics.net": {
@@ -2740,8 +3375,8 @@
         "state": "future"
     },
     "travel-options.com": {
-        "epoch": 1596585600,
-        "expiration_date": "05-aug-2020",
+        "epoch": 1589068800,
+        "expiration_date": "10-may-2020",
         "state": "future"
     },
     "tremorhub.com": {
@@ -2782,6 +3417,11 @@
     "umhali.org": {
         "epoch": 1628899200,
         "expiration_date": "14-aug-2021",
+        "state": "future"
+    },
+    "umhalilabs.com": {
+        "epoch": 1625702400,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "unoadsrv.com": {
@@ -2859,6 +3499,11 @@
         "expiration_date": "05-feb-2020",
         "state": "future"
     },
+    "veruta.com": {
+        "epoch": 1581552000,
+        "expiration_date": "13-feb-2020",
+        "state": "future"
+    },
     "viasrctrafms.com": {
         "epoch": 1582070400,
         "expiration_date": "19-feb-2020",
@@ -2874,9 +3519,29 @@
         "expiration_date": "14-sep-2019",
         "state": "future"
     },
+    "vouchercodeclub.com": {
+        "epoch": 1568419200,
+        "expiration_date": "14-sep-2019",
+        "state": "future"
+    },
+    "vrtztrk.com": {
+        "epoch": 1579305600,
+        "expiration_date": "18-jan-2020",
+        "state": "future"
+    },
     "web-cntr-11.com": {
         "epoch": 1591315200,
         "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
+    "webrankresearch.net": {
+        "epoch": 1572566400,
+        "expiration_date": "01-nov-2019",
+        "state": "future"
+    },
+    "webspectator.info": {
+        "epoch": 1575158400,
+        "expiration_date": "01-dec-2019",
         "state": "future"
     },
     "wedgies.com": {
@@ -2924,9 +3589,19 @@
         "expiration_date": "17-apr-2020",
         "state": "future"
     },
+    "yygslb.com": {
+        "epoch": 1595030400,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
     "zanox.biz": {
         "epoch": 1568764800,
         "expiration_date": "18-sep-2019",
+        "state": "future"
+    },
+    "zdbb.net": {
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
         "state": "future"
     },
     "zqtk.net": {
