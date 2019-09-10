@@ -1,27 +1,18 @@
 {
-    "current_stats": {
-        "builds": 14,
+    "currently_under_test": "0",
+    "days_until_next_test": 2,
+    "end_datetime": "Tue Sep 10 22:33:33 2019",
+    "end_epoch": 1568154813.258545,
+    "last_autosave_datetime": "Tue Sep 10 21:51:06 2019",
+    "last_autosave_epoch": 1568152266.542889,
+    "name": "quidsup_notrack_trackers",
+    "previous_stats": {
+        "builds": 15,
         "counter": {
             "down": 3103,
             "invalid": 2,
             "tested": 28003,
             "up": 24898
-        }
-    },
-    "currently_under_test": "1",
-    "days_until_next_test": 2,
-    "end_datetime": "Tue Sep 10 08:54:09 2019",
-    "end_epoch": 1568105649.165123,
-    "last_autosave_datetime": "Tue Sep 10 21:51:06 2019",
-    "last_autosave_epoch": 1568152266.542889,
-    "name": "quidsup_notrack_trackers",
-    "previous_stats": {
-        "builds": 13,
-        "counter": {
-            "down": 3092,
-            "invalid": 2,
-            "tested": 27995,
-            "up": 24901
         },
         "volatile.list": 24883,
         "whitelisted.list": 24880
