@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 2,
+        "builds": 3,
         "counter": {
-            "down": 269,
+            "down": 450,
             "invalid": 0,
-            "tested": 3267,
-            "up": 2998
+            "tested": 5178,
+            "up": 4728
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Sun Sep 29 10:21:15 2019",
     "end_epoch": 1569752475.328028,
-    "last_autosave_datetime": "Mon Sep 30 18:24:58 2019",
-    "last_autosave_epoch": 1569867898.214025,
+    "last_autosave_datetime": "Mon Sep 30 18:59:28 2019",
+    "last_autosave_epoch": 1569869968.63949,
     "name": "quidsup_notrack_trackers",
     "previous_stats": {
         "builds": 16,
