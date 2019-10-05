@@ -569,6 +569,11 @@
         "expiration_date": "25-jul-2020",
         "state": "future"
     },
+    "dc-storm.com": {
+        "epoch": 1585008000,
+        "expiration_date": "24-mar-2020",
+        "state": "future"
+    },
     "ddf-t3.com": {
         "epoch": 1574899200,
         "expiration_date": "28-nov-2019",
@@ -1055,6 +1060,11 @@
         "state": "future"
     },
     "mkt073.com": {
+        "epoch": 1582416000,
+        "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
+    "mkt080.com": {
         "epoch": 1582416000,
         "expiration_date": "23-feb-2020",
         "state": "future"
@@ -3344,6 +3354,11 @@
         "expiration_date": "10-jul-2020",
         "state": "future"
     },
+    "mkt6771.com": {
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
     "mkt6803.com": {
         "epoch": 1594339200,
         "expiration_date": "10-jul-2020",
@@ -3844,6 +3859,11 @@
         "expiration_date": "13-dec-2019",
         "state": "future"
     },
+    "mkt8661.com": {
+        "epoch": 1576195200,
+        "expiration_date": "13-dec-2019",
+        "state": "future"
+    },
     "mkt8727.com": {
         "epoch": 1582761600,
         "expiration_date": "27-feb-2020",
@@ -4015,6 +4035,11 @@
         "state": "future"
     },
     "mkt9374.com": {
+        "epoch": 1579651200,
+        "expiration_date": "22-jan-2020",
+        "state": "future"
+    },
+    "mkt9378.com": {
         "epoch": 1579651200,
         "expiration_date": "22-jan-2020",
         "state": "future"
