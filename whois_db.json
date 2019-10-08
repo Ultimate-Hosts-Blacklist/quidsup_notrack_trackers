@@ -1,4 +1,9 @@
 {
+    "affrh2022.com": {
+        "epoch": 1586908800,
+        "expiration_date": "15-apr-2020",
+        "state": "future"
+    },
     "alephd.com": {
         "epoch": 1598832000,
         "expiration_date": "31-aug-2020",
@@ -17,6 +22,11 @@
     "avazunativeads.com": {
         "epoch": 1581811200,
         "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
+    "bisrv.com": {
+        "epoch": 1586390400,
+        "expiration_date": "09-apr-2020",
         "state": "future"
     },
     "bridgetrack.com": {
@@ -149,7 +159,22 @@
         "expiration_date": "30-sep-2020",
         "state": "future"
     },
+    "mkt1811.com": {
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
+    "mkt1919.com": {
+        "epoch": 1576540800,
+        "expiration_date": "17-dec-2019",
+        "state": "future"
+    },
     "mkt1936.com": {
+        "epoch": 1576540800,
+        "expiration_date": "17-dec-2019",
+        "state": "future"
+    },
+    "mkt2084.com": {
         "epoch": 1576540800,
         "expiration_date": "17-dec-2019",
         "state": "future"
@@ -174,7 +199,22 @@
         "expiration_date": "29-jan-2020",
         "state": "future"
     },
+    "mkt2550.com": {
+        "epoch": 1580256000,
+        "expiration_date": "29-jan-2020",
+        "state": "future"
+    },
+    "mkt2587.com": {
+        "epoch": 1580256000,
+        "expiration_date": "29-jan-2020",
+        "state": "future"
+    },
     "mkt2754.com": {
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "mkt2840.com": {
         "epoch": 1597622400,
         "expiration_date": "17-aug-2020",
         "state": "future"
@@ -270,6 +310,11 @@
         "state": "future"
     },
     "mkt4730.com": {
+        "epoch": 1584489600,
+        "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
+    "mkt4886.com": {
         "epoch": 1584489600,
         "expiration_date": "18-mar-2020",
         "state": "future"
@@ -532,6 +577,11 @@
     "unsubscribe8.com": {
         "epoch": 1620518400,
         "expiration_date": "09-may-2021",
+        "state": "future"
+    },
+    "xct31.net": {
+        "epoch": 1595808000,
+        "expiration_date": "27-jul-2020",
         "state": "future"
     },
     "zanox.biz": {
