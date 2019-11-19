@@ -2629,6 +2629,11 @@
         "expiration_date": "19-jan-2022",
         "state": "future"
     },
+    "benidoranon.com": {
+        "epoch": 1599004800.0,
+        "expiration_date": "02-sep-2020",
+        "state": "future"
+    },
     "berg-6-82.com": {
         "epoch": 1590537600.0,
         "expiration_date": "27-may-2020",
@@ -64955,8 +64960,8 @@
         "state": "future"
     },
     "snt1.net": {
-        "epoch": 1574121600.0,
-        "expiration_date": "19-nov-2019",
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
         "state": "future"
     },
     "snt2.net": {
@@ -65485,9 +65490,9 @@
         "state": "future"
     },
     "subtraxion.com": {
-        "epoch": 1573776000.0,
-        "expiration_date": "15-nov-2019",
-        "state": "past"
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
+        "state": "future"
     },
     "successfultogether.co.uk": {
         "epoch": 1603152000.0,
