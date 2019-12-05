@@ -3870,8 +3870,8 @@
         "state": "future"
     },
     "clicktracks.com": {
-        "epoch": 1575331200.0,
-        "expiration_date": "03-dec-2019",
+        "epoch": 1638489600.0,
+        "expiration_date": "03-dec-2021",
         "state": "future"
     },
     "clicktracks.org": {
@@ -63014,6 +63014,11 @@
         "expiration_date": "08-aug-2020",
         "state": "future"
     },
+    "r867qq.net": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
+    },
     "raasnet.com": {
         "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
@@ -66805,9 +66810,9 @@
         "state": "future"
     },
     "upsales.org": {
-        "epoch": 1574899200.0,
-        "expiration_date": "28-nov-2019",
-        "state": "past"
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
     },
     "upscore.com": {
         "epoch": 1594598400.0,
