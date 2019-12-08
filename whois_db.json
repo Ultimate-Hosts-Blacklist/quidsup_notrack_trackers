@@ -1912,7 +1912,7 @@
     "alicili.org": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "aliunicorn.com": {
         "epoch": 1581897600.0,
@@ -8852,7 +8852,7 @@
     "ligatus.biz": {
         "epoch": 1575590400.0,
         "expiration_date": "06-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "ligatus.com": {
         "epoch": 1578614400.0,
@@ -67847,6 +67847,11 @@
     "ynwqls.com": {
         "epoch": 1592092800.0,
         "expiration_date": "14-jun-2020",
+        "state": "future"
+    },
+    "yohoads.com": {
+        "epoch": 1589500800.0,
+        "expiration_date": "15-may-2020",
         "state": "future"
     },
     "yospace.com": {
