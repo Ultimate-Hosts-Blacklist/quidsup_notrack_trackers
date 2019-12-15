@@ -9050,8 +9050,8 @@
         "state": "future"
     },
     "loggly.org": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "logmatic.io": {
@@ -65135,9 +65135,9 @@
         "state": "future"
     },
     "snaplytics.io": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
-        "state": "past"
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
     },
     "snapsitemap.com": {
         "epoch": 1672963200.0,
@@ -68102,6 +68102,11 @@
     "zanox.sex": {
         "epoch": 1791158400.0,
         "expiration_date": "05-oct-2026",
+        "state": "future"
+    },
+    "zanox.tel": {
+        "epoch": 1584835200.0,
+        "expiration_date": "22-mar-2020",
         "state": "future"
     },
     "zbuckz.com": {
