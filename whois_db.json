@@ -464,6 +464,11 @@
         "expiration_date": "10-jul-2020",
         "state": "future"
     },
+    "9nl.us": {
+        "epoch": 1593475200.0,
+        "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
     "a1webstats.com": {
         "epoch": 1605657600.0,
         "expiration_date": "18-nov-2020",
@@ -65342,6 +65347,11 @@
     "softwaredefined.guru": {
         "epoch": 1655596800.0,
         "expiration_date": "19-jun-2022",
+        "state": "future"
+    },
+    "softwaredefined.us": {
+        "epoch": 1655510400.0,
+        "expiration_date": "18-jun-2022",
         "state": "future"
     },
     "softwaredefinedappdelivery.com": {
