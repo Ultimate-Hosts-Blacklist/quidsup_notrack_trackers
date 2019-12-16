@@ -494,6 +494,11 @@
         "expiration_date": "17-dec-2020",
         "state": "future"
     },
+    "abetterweb.us": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "state": "future"
+    },
     "abmr.net": {
         "epoch": 1624752000.0,
         "expiration_date": "27-jun-2021",
@@ -2272,6 +2277,11 @@
     "appnexus.paris": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
+    "appnexus.us": {
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "appnexuscloud.biz": {
