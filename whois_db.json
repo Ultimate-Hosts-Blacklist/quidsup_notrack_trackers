@@ -2094,6 +2094,11 @@
         "expiration_date": "10-may-2022",
         "state": "future"
     },
+    "apnex.us": {
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
+        "state": "future"
+    },
     "apnx.us": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
@@ -4905,9 +4910,9 @@
         "state": "future"
     },
     "creative-serving.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
-        "state": "past"
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
     },
     "creativelibrary.org": {
         "epoch": 1620000000.0,
@@ -6735,8 +6740,8 @@
         "state": "future"
     },
     "followistic.com": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "footprint.net": {
@@ -8620,8 +8625,8 @@
         "state": "future"
     },
     "justinejones.org": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "justnavigators.com": {
