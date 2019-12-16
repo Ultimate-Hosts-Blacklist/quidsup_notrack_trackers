@@ -1200,8 +1200,8 @@
         "state": "future"
     },
     "adrecreate.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "adrequest.net": {
@@ -4974,6 +4974,11 @@
         "expiration_date": "15-jun-2020",
         "state": "future"
     },
+    "criteo.us": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
     "crobo.com": {
         "epoch": 1606521600.0,
         "expiration_date": "28-nov-2020",
@@ -8259,6 +8264,11 @@
         "expiration_date": "13-aug-2020",
         "state": "future"
     },
+    "inmobi.us": {
+        "epoch": 1600905600.0,
+        "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
     "inmobiapis.com": {
         "epoch": 1729641600.0,
         "expiration_date": "23-oct-2024",
@@ -8980,8 +8990,8 @@
         "state": "past"
     },
     "lightdatahouse.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "lijit.com": {
@@ -63982,6 +63992,11 @@
     "rtbx.org": {
         "epoch": 1621209600.0,
         "expiration_date": "17-may-2021",
+        "state": "future"
+    },
+    "rtbx.us": {
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "ru4.com": {
