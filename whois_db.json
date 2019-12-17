@@ -16855,13 +16855,13 @@
         "state": "future"
     },
     "mkt1937.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "mkt1938.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "mkt1939.com": {
@@ -16925,8 +16925,8 @@
         "state": "future"
     },
     "mkt1951.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "mkt1952.com": {
@@ -16970,8 +16970,8 @@
         "state": "future"
     },
     "mkt1960.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "mkt1961.com": {
@@ -17160,8 +17160,8 @@
         "state": "future"
     },
     "mkt1998.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "mkt1999.com": {
@@ -17315,8 +17315,8 @@
         "state": "future"
     },
     "mkt2027.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "mkt2028.com": {
@@ -17665,8 +17665,8 @@
         "state": "future"
     },
     "mkt2092.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "mkt2093.com": {
@@ -17890,8 +17890,8 @@
         "state": "future"
     },
     "mkt2134.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "mkt2135.com": {
@@ -18045,8 +18045,8 @@
         "state": "future"
     },
     "mkt2162.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "mkt2163.com": {
@@ -63612,7 +63612,7 @@
     "reson8.com": {
         "epoch": 1576540800.0,
         "expiration_date": "17-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "resorsedroblet.pro": {
         "epoch": 1620000000.0,
@@ -68297,6 +68297,11 @@
     "zanox.tel": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
+        "state": "future"
+    },
+    "zanox.us": {
+        "epoch": 1579996800.0,
+        "expiration_date": "26-jan-2020",
         "state": "future"
     },
     "zbuckz.com": {
