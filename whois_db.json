@@ -482,7 +482,7 @@
     "a8bt.com": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "a9.com": {
         "epoch": 1725667200.0,
@@ -2675,8 +2675,8 @@
         "state": "future"
     },
     "bdex.com": {
-        "epoch": 1577232000.0,
-        "expiration_date": "25-dec-2019",
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
         "state": "future"
     },
     "bdg001a.com": {
