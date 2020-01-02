@@ -64160,9 +64160,9 @@
         "state": "future"
     },
     "rvfrm2010.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
-        "state": "past"
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
+        "state": "future"
     },
     "rvfrm2011.com": {
         "epoch": 1577836800.0,
@@ -67607,6 +67607,11 @@
     "vungle.com": {
         "epoch": 1666742400.0,
         "expiration_date": "26-oct-2022",
+        "state": "future"
+    },
+    "vvbox.cz": {
+        "epoch": 1600646400.0,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "vwdservices.com": {
