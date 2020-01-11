@@ -7524,6 +7524,11 @@
         "expiration_date": "22-jun-2020",
         "state": "future"
     },
+    "header.tech": {
+        "epoch": 1603152000.0,
+        "expiration_date": "20-oct-2020",
+        "state": "future"
+    },
     "heapanalytics.com": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
@@ -50825,6 +50830,11 @@
         "state": "future"
     },
     "mkt8181.com": {
+        "epoch": 1588032000.0,
+        "expiration_date": "28-apr-2020",
+        "state": "future"
+    },
+    "mkt8182.com": {
         "epoch": 1588032000.0,
         "expiration_date": "28-apr-2020",
         "state": "future"
