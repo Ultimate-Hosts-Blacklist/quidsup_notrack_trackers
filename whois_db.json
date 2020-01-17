@@ -9329,6 +9329,11 @@
         "expiration_date": "05-jul-2020",
         "state": "future"
     },
+    "lytics.io": {
+        "epoch": 1581984000.0,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
     "madisonlogic.com": {
         "epoch": 1711843200.0,
         "expiration_date": "31-mar-2024",
@@ -25950,9 +25955,9 @@
         "state": "future"
     },
     "mkt365.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
-        "state": "past"
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
+        "state": "future"
     },
     "mkt3650.com": {
         "epoch": 1599955200.0,
