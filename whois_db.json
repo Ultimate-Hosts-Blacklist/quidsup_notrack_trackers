@@ -3609,6 +3609,11 @@
         "expiration_date": "18-feb-2020",
         "state": "future"
     },
+    "cardlytics.com": {
+        "epoch": 1582848000.0,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
     "casalemedia.com": {
         "epoch": 1697673600.0,
         "expiration_date": "19-oct-2023",
@@ -65037,7 +65042,7 @@
     "signiasweden.com": {
         "epoch": 1579392000.0,
         "expiration_date": "19-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "sigopn01.com": {
         "epoch": 1616544000.0,
