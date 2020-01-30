@@ -12119,6 +12119,11 @@
         "expiration_date": "21-jan-2021",
         "state": "future"
     },
+    "mkt10336.com": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
     "mkt1034.com": {
         "epoch": 1611187200.0,
         "expiration_date": "21-jan-2021",
@@ -12139,14 +12144,29 @@
         "expiration_date": "21-jan-2021",
         "state": "future"
     },
+    "mkt10377.com": {
+        "epoch": 1602201600.0,
+        "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
     "mkt1038.com": {
         "epoch": 1611187200.0,
         "expiration_date": "21-jan-2021",
         "state": "future"
     },
+    "mkt10387.com": {
+        "epoch": 1602201600.0,
+        "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
     "mkt1039.com": {
         "epoch": 1611187200.0,
         "expiration_date": "21-jan-2021",
+        "state": "future"
+    },
+    "mkt10393.com": {
+        "epoch": 1604188800.0,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "mkt104.com": {
@@ -12184,6 +12204,11 @@
         "expiration_date": "21-jan-2021",
         "state": "future"
     },
+    "mkt10451.com": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
+    },
     "mkt1046.com": {
         "epoch": 1611187200.0,
         "expiration_date": "21-jan-2021",
@@ -12202,6 +12227,11 @@
     "mkt1049.com": {
         "epoch": 1611187200.0,
         "expiration_date": "21-jan-2021",
+        "state": "future"
+    },
+    "mkt10491.com": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
         "state": "future"
     },
     "mkt105.com": {
@@ -44455,6 +44485,11 @@
         "state": "future"
     },
     "mkt7018.com": {
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
+    },
+    "mkt7019.com": {
         "epoch": 1607731200.0,
         "expiration_date": "12-dec-2020",
         "state": "future"
