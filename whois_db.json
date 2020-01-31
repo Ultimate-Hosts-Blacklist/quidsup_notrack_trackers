@@ -4072,7 +4072,7 @@
     "clkads.com": {
         "epoch": 1580428800.0,
         "expiration_date": "31-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "clkbid.com": {
         "epoch": 1604188800.0,
@@ -12234,6 +12234,11 @@
         "expiration_date": "21-jan-2021",
         "state": "future"
     },
+    "mkt10401.com": {
+        "epoch": 1604188800.0,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
+    },
     "mkt1041.com": {
         "epoch": 1611187200.0,
         "expiration_date": "21-jan-2021",
@@ -12310,6 +12315,11 @@
         "state": "future"
     },
     "mkt10448.com": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
+    },
+    "mkt10449.com": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
         "state": "future"
@@ -12397,6 +12407,11 @@
     "mkt10491.com": {
         "epoch": 1608768000.0,
         "expiration_date": "24-dec-2020",
+        "state": "future"
+    },
+    "mkt10492.com": {
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
         "state": "future"
     },
     "mkt105.com": {
@@ -61547,6 +61562,11 @@
     "nativeads.com": {
         "epoch": 1868400000.0,
         "expiration_date": "17-mar-2029",
+        "state": "future"
+    },
+    "nativeads.site": {
+        "epoch": 1617235200.0,
+        "expiration_date": "01-apr-2021",
         "state": "future"
     },
     "nativeads.solutions": {
