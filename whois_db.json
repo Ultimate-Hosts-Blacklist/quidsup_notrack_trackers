@@ -840,9 +840,9 @@
         "state": "future"
     },
     "adinfuse.com": {
-        "epoch": 1580169600.0,
-        "expiration_date": "28-jan-2020",
-        "state": "past"
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
+        "state": "future"
     },
     "adio.co": {
         "epoch": 1604361600.0,
@@ -2200,6 +2200,11 @@
         "state": "future"
     },
     "applicationstreamingnetwork.com": {
+        "epoch": 1635120000.0,
+        "expiration_date": "25-oct-2021",
+        "state": "future"
+    },
+    "applicationstreamingnetwork.info": {
         "epoch": 1635120000.0,
         "expiration_date": "25-oct-2021",
         "state": "future"
@@ -12394,6 +12399,11 @@
         "expiration_date": "01-nov-2020",
         "state": "future"
     },
+    "mkt10422.com": {
+        "epoch": 1604188800.0,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
+    },
     "mkt10423.com": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
@@ -12464,6 +12474,11 @@
         "expiration_date": "10-dec-2020",
         "state": "future"
     },
+    "mkt10443.com": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
+    },
     "mkt10444.com": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
@@ -12507,6 +12522,11 @@
     "mkt10454.com": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
+        "state": "future"
+    },
+    "mkt10456.com": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
         "state": "future"
     },
     "mkt10458.com": {
@@ -12650,6 +12670,11 @@
         "state": "future"
     },
     "mkt10495.com": {
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
+        "state": "future"
+    },
+    "mkt10496.com": {
         "epoch": 1611446400.0,
         "expiration_date": "24-jan-2021",
         "state": "future"
