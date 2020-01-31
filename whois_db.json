@@ -4610,9 +4610,9 @@
         "state": "future"
     },
     "contentclick.co.uk": {
-        "epoch": 1572307200.0,
-        "expiration_date": "29-oct-2019",
-        "state": "past"
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "state": "future"
     },
     "contentexchange.me": {
         "epoch": 1585267200.0,
@@ -12174,6 +12174,11 @@
         "expiration_date": "18-sep-2020",
         "state": "future"
     },
+    "mkt10345.com": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
     "mkt10346.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
@@ -12489,6 +12494,11 @@
         "expiration_date": "10-dec-2020",
         "state": "future"
     },
+    "mkt10437.com": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
+    },
     "mkt10438.com": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
@@ -12675,6 +12685,11 @@
         "state": "future"
     },
     "mkt10482.com": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
+        "state": "future"
+    },
+    "mkt10485.com": {
         "epoch": 1608768000.0,
         "expiration_date": "24-dec-2020",
         "state": "future"
