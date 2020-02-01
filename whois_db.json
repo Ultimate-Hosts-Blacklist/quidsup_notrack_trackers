@@ -9585,9 +9585,9 @@
         "state": "future"
     },
     "media6degrees.com": {
-        "epoch": 1580169600.0,
-        "expiration_date": "28-jan-2020",
-        "state": "past"
+        "epoch": 1643328000.0,
+        "expiration_date": "28-jan-2022",
+        "state": "future"
     },
     "mediabong.com": {
         "epoch": 1728259200.0,
@@ -12424,6 +12424,11 @@
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
+    "mkt10389.com": {
+        "epoch": 1602201600.0,
+        "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
     "mkt1039.com": {
         "epoch": 1611187200.0,
         "expiration_date": "21-jan-2021",
@@ -12524,6 +12529,11 @@
         "expiration_date": "01-nov-2020",
         "state": "future"
     },
+    "mkt10407.com": {
+        "epoch": 1604188800.0,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
+    },
     "mkt10408.com": {
         "epoch": 1604188800.0,
         "expiration_date": "01-nov-2020",
@@ -12545,6 +12555,11 @@
         "state": "future"
     },
     "mkt10412.com": {
+        "epoch": 1604188800.0,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
+    },
+    "mkt10413.com": {
         "epoch": 1604188800.0,
         "expiration_date": "01-nov-2020",
         "state": "future"
