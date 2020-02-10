@@ -679,6 +679,11 @@
         "expiration_date": "09-jan-2023",
         "state": "future"
     },
+    "adbutter.net": {
+        "epoch": 1668556800.0,
+        "expiration_date": "16-nov-2022",
+        "state": "future"
+    },
     "adc-srv.net": {
         "epoch": 1608681600.0,
         "expiration_date": "23-dec-2020",
@@ -1867,7 +1872,7 @@
     "ahainternational.com": {
         "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "ahainternational.net": {
         "epoch": 1601424000.0,
