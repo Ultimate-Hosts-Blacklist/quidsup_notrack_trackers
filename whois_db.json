@@ -7477,7 +7477,7 @@
     "gunmedbuyflw.com": {
         "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "guomob.com": {
         "epoch": 1664236800.0,
@@ -8707,6 +8707,11 @@
     "k-analytix.com": {
         "epoch": 1606435200.0,
         "expiration_date": "27-nov-2020",
+        "state": "future"
+    },
+    "kaloo.ga": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
         "state": "future"
     },
     "kalooga.com": {
@@ -30805,6 +30810,11 @@
         "state": "future"
     },
     "mkt4371.com": {
+        "epoch": 1599955200.0,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
+    "mkt4372.com": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
         "state": "future"
@@ -61647,7 +61657,7 @@
     "mobrevflwms.com": {
         "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "mobring.co": {
         "epoch": 1617840000.0,
