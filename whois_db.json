@@ -1244,6 +1244,11 @@
         "expiration_date": "24-jan-2021",
         "state": "future"
     },
+    "ctd002.net": {
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
+        "state": "future"
+    },
     "ctd003.net": {
         "epoch": 1595376000.0,
         "expiration_date": "22-jul-2020",
@@ -1518,6 +1523,11 @@
         "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
         "state": "future"
+    },
+    "ellard.biz": {
+        "epoch": 1579046400.0,
+        "expiration_date": "15-jan-2020",
+        "state": "past"
     },
     "email-standards.com": {
         "epoch": 1631318400.0,
@@ -3989,6 +3999,11 @@
         "expiration_date": "17-dec-2020",
         "state": "future"
     },
+    "mkt2042.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
     "mkt2044.com": {
         "epoch": 1608163200.0,
         "expiration_date": "17-dec-2020",
@@ -4344,6 +4359,11 @@
         "expiration_date": "23-feb-2021",
         "state": "future"
     },
+    "mkt2281.com": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
     "mkt2289.com": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
@@ -4630,6 +4650,11 @@
         "state": "future"
     },
     "mkt2554.com": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
+    "mkt2555.com": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
         "state": "future"
@@ -5224,6 +5249,11 @@
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
+    "mkt2949.com": {
+        "epoch": 1597622400.0,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
     "mkt2950.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
@@ -5630,6 +5660,11 @@
         "state": "future"
     },
     "mkt3181.com": {
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
+        "state": "future"
+    },
+    "mkt3182.com": {
         "epoch": 1608508800.0,
         "expiration_date": "21-dec-2020",
         "state": "future"
@@ -6964,6 +6999,11 @@
         "expiration_date": "03-jan-2021",
         "state": "future"
     },
+    "mkt3999.com": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "state": "future"
+    },
     "mkt4000.com": {
         "epoch": 1609632000.0,
         "expiration_date": "03-jan-2021",
@@ -7954,6 +7994,11 @@
         "expiration_date": "03-jun-2020",
         "state": "future"
     },
+    "nedstat.org": {
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
+        "state": "future"
+    },
     "nedstatpro.com": {
         "epoch": 1614816000.0,
         "expiration_date": "04-mar-2021",
@@ -8090,6 +8135,11 @@
         "state": "future"
     },
     "oasnetwork.com": {
+        "epoch": 1645488000.0,
+        "expiration_date": "22-feb-2022",
+        "state": "future"
+    },
+    "oasnetwork.net": {
         "epoch": 1645488000.0,
         "expiration_date": "22-feb-2022",
         "state": "future"
@@ -8897,6 +8947,11 @@
     "sidekickopen03.com": {
         "epoch": 1620691200.0,
         "expiration_date": "11-may-2021",
+        "state": "future"
+    },
+    "sidekickopen04.com": {
+        "epoch": 1589155200.0,
+        "expiration_date": "11-may-2020",
         "state": "future"
     },
     "sidekickopen05.com": {
