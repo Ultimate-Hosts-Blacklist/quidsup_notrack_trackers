@@ -909,6 +909,11 @@
         "expiration_date": "10-dec-2020",
         "state": "future"
     },
+    "candodigital.com": {
+        "epoch": 1586736000.0,
+        "expiration_date": "13-apr-2020",
+        "state": "future"
+    },
     "cash4charities.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
@@ -2724,6 +2729,16 @@
         "expiration_date": "24-dec-2020",
         "state": "future"
     },
+    "mkt10490.com": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
+        "state": "future"
+    },
+    "mkt10491.com": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
+        "state": "future"
+    },
     "mkt10492.com": {
         "epoch": 1611446400.0,
         "expiration_date": "24-jan-2021",
@@ -3019,12 +3034,22 @@
         "expiration_date": "18-feb-2021",
         "state": "future"
     },
+    "mkt1224.com": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
+        "state": "future"
+    },
     "mkt1227.com": {
         "epoch": 1613606400.0,
         "expiration_date": "18-feb-2021",
         "state": "future"
     },
     "mkt1231.com": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
+        "state": "future"
+    },
+    "mkt1233.com": {
         "epoch": 1613606400.0,
         "expiration_date": "18-feb-2021",
         "state": "future"
@@ -3240,6 +3265,11 @@
         "state": "future"
     },
     "mkt1399.com": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
+        "state": "future"
+    },
+    "mkt1401.com": {
         "epoch": 1613606400.0,
         "expiration_date": "18-feb-2021",
         "state": "future"
@@ -3655,6 +3685,11 @@
         "state": "future"
     },
     "mkt1770.com": {
+        "epoch": 1601424000.0,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
+    "mkt1773.com": {
         "epoch": 1601424000.0,
         "expiration_date": "30-sep-2020",
         "state": "future"
@@ -4175,6 +4210,11 @@
         "state": "future"
     },
     "mkt2118.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
+    "mkt2119.com": {
         "epoch": 1608163200.0,
         "expiration_date": "17-dec-2020",
         "state": "future"
@@ -6564,6 +6604,11 @@
         "expiration_date": "13-sep-2020",
         "state": "future"
     },
+    "mkt3777.com": {
+        "epoch": 1599955200.0,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
     "mkt3784.com": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
@@ -8109,6 +8154,11 @@
         "expiration_date": "01-oct-2020",
         "state": "future"
     },
+    "oas-central.com": {
+        "epoch": 1645488000.0,
+        "expiration_date": "22-feb-2022",
+        "state": "future"
+    },
     "oas-central.net": {
         "epoch": 1645488000.0,
         "expiration_date": "22-feb-2022",
@@ -8940,6 +8990,11 @@
         "state": "future"
     },
     "sidekickopen01.com": {
+        "epoch": 1589155200.0,
+        "expiration_date": "11-may-2020",
+        "state": "future"
+    },
+    "sidekickopen02.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
         "state": "future"
