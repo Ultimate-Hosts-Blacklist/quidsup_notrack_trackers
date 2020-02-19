@@ -249,6 +249,11 @@
         "expiration_date": "29-dec-2019",
         "state": "past"
     },
+    "5gl1x9qc.com": {
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
+        "state": "future"
+    },
     "5min.com": {
         "epoch": 1626393600.0,
         "expiration_date": "16-jul-2021",
@@ -8740,8 +8745,8 @@
         "state": "future"
     },
     "kickdyn.com": {
-        "epoch": 1581724800.0,
-        "expiration_date": "15-feb-2020",
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "kiespr.com": {
