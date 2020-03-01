@@ -1422,7 +1422,7 @@
     "agm1.us": {
         "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "ahalogy.com": {
         "epoch": 1595980800.0,
@@ -1977,6 +1977,11 @@
     "bam-x.com": {
         "epoch": 1747094400.0,
         "expiration_date": "13-may-2025",
+        "state": "future"
+    },
+    "bannerflow.com": {
+        "epoch": 1591142400.0,
+        "expiration_date": "03-jun-2020",
         "state": "future"
     },
     "basebanner.com": {
