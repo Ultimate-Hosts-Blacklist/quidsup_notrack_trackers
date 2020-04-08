@@ -1,6 +1,6 @@
 {
     "current_stats": {
-        "builds": 733,
+        "builds": 734,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -17,11 +17,11 @@
     "days_until_next_test": 2,
     "end_datetime": "2020-03-03T15:55:19.744877",
     "end_epoch": 1582975300.710035,
+    "issue_link": "https://gitlab.com/quidsup/notrack-blocklists/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=",
     "last_autosave_datetime": "2020-03-03T15:55:19.744896",
     "last_autosave_epoch": 1583245184.089674,
-    "name": "quidsup_notrack_trackers",
     "link": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt",
-    "issue_link": "https://gitlab.com/quidsup/notrack-blocklists/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=",
+    "name": "quidsup_notrack_trackers",
     "previous_stats": {
         "builds": 30,
         "clean.list": 24348,
