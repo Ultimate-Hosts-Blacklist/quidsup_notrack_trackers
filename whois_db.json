@@ -4974,6 +4974,11 @@
         "expiration_date": "13-apr-2021",
         "state": "future"
     },
+    "freespee.com": {
+        "epoch": 1597276800.0,
+        "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
     "freestar.io": {
         "epoch": 1726963200.0,
         "expiration_date": "22-sep-2024",
@@ -55625,6 +55630,11 @@
         "state": "future"
     },
     "mkt9451.com": {
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
+        "state": "future"
+    },
+    "mkt9452.com": {
         "epoch": 1611273600.0,
         "expiration_date": "22-jan-2021",
         "state": "future"
