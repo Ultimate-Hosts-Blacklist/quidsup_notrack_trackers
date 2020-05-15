@@ -1989,6 +1989,11 @@
         "expiration_date": "06-apr-2021",
         "state": "future"
     },
+    "ayads.co": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
     "azalead.com": {
         "epoch": 1683417600.0,
         "expiration_date": "07-may-2023",
@@ -5235,8 +5240,8 @@
         "state": "future"
     },
     "globaloffers.link": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "gmarketing.com": {
@@ -60785,9 +60790,9 @@
         "state": "future"
     },
     "rfihub.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
-        "state": "past"
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "state": "future"
     },
     "rfihub.net": {
         "epoch": 1589414400.0,
