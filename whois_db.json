@@ -875,8 +875,8 @@
         "state": "future"
     },
     "adnxtr.com": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "adnxus.com": {
@@ -61972,6 +61972,11 @@
     "simpleanalytics.io": {
         "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
+        "state": "future"
+    },
+    "simpleanalyticscdn.com": {
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
         "state": "future"
     },
     "simpleheatmaps.com": {
