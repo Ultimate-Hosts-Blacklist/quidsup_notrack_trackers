@@ -20,6 +20,7 @@
 0.0.0.0 f6591f7b0fcba816ef1d195e7ffd1e6c.com
 0.0.0.0 geoiplookup.wikimedia.org
 0.0.0.0 info.kugou.com
+0.0.0.0 logger.dailymotion.com
 0.0.0.0 marketinghub.hp.com
 0.0.0.0 metric.gstatic.com
 0.0.0.0 metric.ipv6test.net
@@ -65,6 +66,7 @@
 0.0.0.0 mkt2206.com
 0.0.0.0 mkt2210.com
 0.0.0.0 mkt2212.com
+0.0.0.0 mkt2213.com
 0.0.0.0 mkt2222.com
 0.0.0.0 mkt2232.com
 0.0.0.0 mkt2262.com
@@ -77,14 +79,17 @@
 0.0.0.0 mkt2329.com
 0.0.0.0 mkt2350.com
 0.0.0.0 mkt2373.com
+0.0.0.0 mkt2374.com
 0.0.0.0 mkt2376.com
 0.0.0.0 mkt2403.com
 0.0.0.0 mkt2404.com
 0.0.0.0 mkt2412.com
 0.0.0.0 mkt2449.com
+0.0.0.0 mkt2501.com
 0.0.0.0 mkt2504.com
 0.0.0.0 mkt2514.com
 0.0.0.0 mkt2560.com
+0.0.0.0 mkt2619.com
 0.0.0.0 mkt2819.com
 0.0.0.0 mkt2903.com
 0.0.0.0 mkt3001.com
@@ -119,13 +124,17 @@
 0.0.0.0 mkt915.com
 0.0.0.0 mkt917.com
 0.0.0.0 mkt919.com
+0.0.0.0 mkt923.com
 0.0.0.0 mkt924.com
 0.0.0.0 mkt925.com
 0.0.0.0 mkt926.com
+0.0.0.0 mkt927.com
 0.0.0.0 mkt928.com
 0.0.0.0 mkt929.com
+0.0.0.0 mkt933.com
 0.0.0.0 mkt934.com
 0.0.0.0 mkt935.com
+0.0.0.0 mkt936.com
 0.0.0.0 mkt937.com
 0.0.0.0 mkt939.com
 0.0.0.0 mkt943.com
@@ -139,8 +148,10 @@
 0.0.0.0 mkt954.com
 0.0.0.0 mkt955.com
 0.0.0.0 mkt956.com
+0.0.0.0 mkt957.com
 0.0.0.0 mkt958.com
 0.0.0.0 mkt962.com
+0.0.0.0 mkt963.com
 0.0.0.0 mkt964.com
 0.0.0.0 mkt965.com
 0.0.0.0 mkt966.com
@@ -151,6 +162,7 @@
 0.0.0.0 mkt972.com
 0.0.0.0 mkt973.com
 0.0.0.0 mkt974.com
+0.0.0.0 mkt976.com
 0.0.0.0 mkt977.com
 0.0.0.0 mkt979.com
 0.0.0.0 mkt983.com
@@ -166,6 +178,7 @@
 0.0.0.0 mkt997.com
 0.0.0.0 om.au
 0.0.0.0 phone.igexin.com
+0.0.0.0 piwik.up.welt.de
 0.0.0.0 pixel.redditmedia.com
 0.0.0.0 rubiconproject.net.akadns.net
 0.0.0.0 skiftmedia.pt
@@ -181,6 +194,7 @@
 0.0.0.0 www.2znp09oa.com
 0.0.0.0 www.304br.net
 0.0.0.0 www.395bc5eaa00405ae7569b258246f23c4.com
+0.0.0.0 www.3lift.com
 0.0.0.0 www.5gl1x9qc.com
 0.0.0.0 www.778669.com
 0.0.0.0 www.8m5sew59gr.bid
@@ -188,6 +202,7 @@
 0.0.0.0 www.a60b4ddd0c257fb3f1bb059bcbc42862.com
 0.0.0.0 www.acxiom-online.com
 0.0.0.0 www.ad2upapp.com
+0.0.0.0 www.adbrn.com
 0.0.0.0 www.adcolony.xyz
 0.0.0.0 www.ad-delivery.net
 0.0.0.0 www.addeluxe.jp
@@ -223,6 +238,7 @@
 0.0.0.0 www.amgdgt.com
 0.0.0.0 www.amobee.org
 0.0.0.0 www.analysing.email
+0.0.0.0 www.analytics-egain.com
 0.0.0.0 www.apnex.us
 0.0.0.0 www.appads.com
 0.0.0.0 www.app-measurement.com
@@ -257,6 +273,7 @@
 0.0.0.0 www.btrll.org
 0.0.0.0 www.bumlam.com
 0.0.0.0 www.buysellads.net
+0.0.0.0 www.buysub.com
 0.0.0.0 www.canddi.io
 0.0.0.0 www.candobees.com
 0.0.0.0 www.cdnh3.net
@@ -288,6 +305,7 @@
 0.0.0.0 www.ctd005.net
 0.0.0.0 www.ctnsnet.com
 0.0.0.0 www.custom-emailing.com
+0.0.0.0 www.d09.no
 0.0.0.0 www.d1g3gvqfdsvkse.cloudfront.net
 0.0.0.0 www.d2jjzw81hqbuqv.cloudfront.net
 0.0.0.0 www.d2ymkpxi1rgldj.cloudfront.net
@@ -323,10 +341,12 @@
 0.0.0.0 www.ellard.biz
 0.0.0.0 www.email-standards.com
 0.0.0.0 www.emediate.eu
+0.0.0.0 www.emlfiles2.com
 0.0.0.0 www.emlfiles4.com
 0.0.0.0 www.emlfiles5.com
 0.0.0.0 www.emlfiles6.com
 0.0.0.0 www.emlfiles9.com
+0.0.0.0 www.emlfiles.com
 0.0.0.0 www.emxdgt.com
 0.0.0.0 www.engine54.com
 0.0.0.0 www.envnxs.net
@@ -341,6 +361,7 @@
 0.0.0.0 www.fastpopunder.com
 0.0.0.0 www.feedmagnet.com
 0.0.0.0 www.fetchback.com
+0.0.0.0 www.flite.com
 0.0.0.0 www.flx1.com
 0.0.0.0 www.fredhopperservices.com
 0.0.0.0 www.fyre.co
@@ -348,6 +369,7 @@
 0.0.0.0 www.getsentry.org
 0.0.0.0 www.globaloffers.link
 0.0.0.0 www.go-mpulse.net
+0.0.0.0 www.googlesyndication.com
 0.0.0.0 www.goroost.com
 0.0.0.0 www.got2sell.co
 0.0.0.0 www.gotraffic.net
@@ -431,6 +453,7 @@
 0.0.0.0 www.mkt010.com
 0.0.0.0 www.mkt024.com
 0.0.0.0 www.mkt032.com
+0.0.0.0 www.mkt040.com
 0.0.0.0 www.mkt041.com
 0.0.0.0 www.mkt042.com
 0.0.0.0 www.mkt043.com
@@ -460,6 +483,7 @@
 0.0.0.0 www.mkt1058.com
 0.0.0.0 www.mkt1061.com
 0.0.0.0 www.mkt1062.com
+0.0.0.0 www.mkt1072.com
 0.0.0.0 www.mkt107.com
 0.0.0.0 www.mkt1087.com
 0.0.0.0 www.mkt1096.com
@@ -488,6 +512,7 @@
 0.0.0.0 www.mkt1167.com
 0.0.0.0 www.mkt1171.com
 0.0.0.0 www.mkt1172.com
+0.0.0.0 www.mkt1175.com
 0.0.0.0 www.mkt1183.com
 0.0.0.0 www.mkt1184.com
 0.0.0.0 www.mkt1194.com
@@ -507,6 +532,7 @@
 0.0.0.0 www.mkt1243.com
 0.0.0.0 www.mkt1244.com
 0.0.0.0 www.mkt1255.com
+0.0.0.0 www.mkt1268.com
 0.0.0.0 www.mkt1269.com
 0.0.0.0 www.mkt1270.com
 0.0.0.0 www.mkt1282.com
@@ -544,6 +570,8 @@
 0.0.0.0 www.mkt1420.com
 0.0.0.0 www.mkt1421.com
 0.0.0.0 www.mkt1422.com
+0.0.0.0 www.mkt1423.com
+0.0.0.0 www.mkt1425.com
 0.0.0.0 www.mkt1426.com
 0.0.0.0 www.mkt1431.com
 0.0.0.0 www.mkt1432.com
@@ -553,6 +581,7 @@
 0.0.0.0 www.mkt1450.com
 0.0.0.0 www.mkt1470.com
 0.0.0.0 www.mkt1480.com
+0.0.0.0 www.mkt1484.com
 0.0.0.0 www.mkt1485.com
 0.0.0.0 www.mkt1497.com
 0.0.0.0 www.mkt1501.com
@@ -607,6 +636,7 @@
 0.0.0.0 www.mkt1766.com
 0.0.0.0 www.mkt176.com
 0.0.0.0 www.mkt1770.com
+0.0.0.0 www.mkt1773.com
 0.0.0.0 www.mkt1775.com
 0.0.0.0 www.mkt1776.com
 0.0.0.0 www.mkt1779.com
@@ -703,6 +733,7 @@
 0.0.0.0 www.mkt2107.com
 0.0.0.0 www.mkt2109.com
 0.0.0.0 www.mkt2110.com
+0.0.0.0 www.mkt2113.com
 0.0.0.0 www.mkt2115.com
 0.0.0.0 www.mkt2117.com
 0.0.0.0 www.mkt2119.com
@@ -726,6 +757,7 @@
 0.0.0.0 www.mkt2206.com
 0.0.0.0 www.mkt2210.com
 0.0.0.0 www.mkt2212.com
+0.0.0.0 www.mkt2213.com
 0.0.0.0 www.mkt2218.com
 0.0.0.0 www.mkt2220.com
 0.0.0.0 www.mkt2222.com
@@ -739,6 +771,7 @@
 0.0.0.0 www.mkt2261.com
 0.0.0.0 www.mkt2262.com
 0.0.0.0 www.mkt2269.com
+0.0.0.0 www.mkt226.com
 0.0.0.0 www.mkt2270.com
 0.0.0.0 www.mkt2271.com
 0.0.0.0 www.mkt2273.com
@@ -767,6 +800,7 @@
 0.0.0.0 www.mkt2364.com
 0.0.0.0 www.mkt2370.com
 0.0.0.0 www.mkt2373.com
+0.0.0.0 www.mkt2374.com
 0.0.0.0 www.mkt2376.com
 0.0.0.0 www.mkt238.com
 0.0.0.0 www.mkt2403.com
@@ -796,8 +830,10 @@
 0.0.0.0 www.mkt2485.com
 0.0.0.0 www.mkt2487.com
 0.0.0.0 www.mkt2490.com
+0.0.0.0 www.mkt2494.com
 0.0.0.0 www.mkt2497.com
 0.0.0.0 www.mkt249.com
+0.0.0.0 www.mkt2501.com
 0.0.0.0 www.mkt2504.com
 0.0.0.0 www.mkt250.com
 0.0.0.0 www.mkt2510.com
@@ -811,20 +847,24 @@
 0.0.0.0 www.mkt2564.com
 0.0.0.0 www.mkt2569.com
 0.0.0.0 www.mkt2571.com
+0.0.0.0 www.mkt2576.com
 0.0.0.0 www.mkt2577.com
 0.0.0.0 www.mkt2579.com
 0.0.0.0 www.mkt257.com
 0.0.0.0 www.mkt2583.com
 0.0.0.0 www.mkt2585.com
 0.0.0.0 www.mkt2586.com
+0.0.0.0 www.mkt2587.com
 0.0.0.0 www.mkt2589.com
 0.0.0.0 www.mkt2591.com
 0.0.0.0 www.mkt2600.com
 0.0.0.0 www.mkt2605.com
 0.0.0.0 www.mkt2613.com
+0.0.0.0 www.mkt2619.com
 0.0.0.0 www.mkt2627.com
 0.0.0.0 www.mkt262.com
 0.0.0.0 www.mkt2633.com
+0.0.0.0 www.mkt2634.com
 0.0.0.0 www.mkt2639.com
 0.0.0.0 www.mkt2649.com
 0.0.0.0 www.mkt2654.com
@@ -839,9 +879,11 @@
 0.0.0.0 www.mkt2705.com
 0.0.0.0 www.mkt2711.com
 0.0.0.0 www.mkt2715.com
+0.0.0.0 www.mkt2719.com
 0.0.0.0 www.mkt2720.com
 0.0.0.0 www.mkt2721.com
 0.0.0.0 www.mkt2725.com
+0.0.0.0 www.mkt2729.com
 0.0.0.0 www.mkt2730.com
 0.0.0.0 www.mkt2734.com
 0.0.0.0 www.mkt2738.com
@@ -875,6 +917,7 @@
 0.0.0.0 www.mkt2869.com
 0.0.0.0 www.mkt2875.com
 0.0.0.0 www.mkt2877.com
+0.0.0.0 www.mkt2882.com
 0.0.0.0 www.mkt2883.com
 0.0.0.0 www.mkt2886.com
 0.0.0.0 www.mkt2894.com
@@ -883,6 +926,7 @@
 0.0.0.0 www.mkt2900.com
 0.0.0.0 www.mkt2903.com
 0.0.0.0 www.mkt2906.com
+0.0.0.0 www.mkt2907.com
 0.0.0.0 www.mkt2908.com
 0.0.0.0 www.mkt2909.com
 0.0.0.0 www.mkt2910.com
@@ -896,6 +940,7 @@
 0.0.0.0 www.mkt2934.com
 0.0.0.0 www.mkt2935.com
 0.0.0.0 www.mkt2936.com
+0.0.0.0 www.mkt2937.com
 0.0.0.0 www.mkt2942.com
 0.0.0.0 www.mkt2943.com
 0.0.0.0 www.mkt2949.com
@@ -904,6 +949,7 @@
 0.0.0.0 www.mkt2963.com
 0.0.0.0 www.mkt2966.com
 0.0.0.0 www.mkt2972.com
+0.0.0.0 www.mkt2974.com
 0.0.0.0 www.mkt2978.com
 0.0.0.0 www.mkt2980.com
 0.0.0.0 www.mkt2987.com
@@ -919,6 +965,7 @@
 0.0.0.0 www.mkt3000.com
 0.0.0.0 www.mkt3001.com
 0.0.0.0 www.mkt3003.com
+0.0.0.0 www.mkt3004.com
 0.0.0.0 www.mkt3006.com
 0.0.0.0 www.mkt3008.com
 0.0.0.0 www.mkt3010.com
@@ -932,6 +979,7 @@
 0.0.0.0 www.mkt3030.com
 0.0.0.0 www.mkt3055.com
 0.0.0.0 www.mkt3058.com
+0.0.0.0 www.mkt3059.com
 0.0.0.0 www.mkt3060.com
 0.0.0.0 www.mkt3062.com
 0.0.0.0 www.mkt3064.com
@@ -940,6 +988,7 @@
 0.0.0.0 www.mkt3094.com
 0.0.0.0 www.mkt3095.com
 0.0.0.0 www.mkt3096.com
+0.0.0.0 www.mkt3097.com
 0.0.0.0 www.mkt3104.com
 0.0.0.0 www.mkt3107.com
 0.0.0.0 www.mkt3114.com
@@ -989,9 +1038,12 @@
 0.0.0.0 www.mkt3245.com
 0.0.0.0 www.mkt3253.com
 0.0.0.0 www.mkt3260.com
+0.0.0.0 www.mkt3263.com
+0.0.0.0 www.mkt3270.com
 0.0.0.0 www.mkt3282.com
 0.0.0.0 www.mkt3283.com
 0.0.0.0 www.mkt3298.com
+0.0.0.0 www.mkt3300.com
 0.0.0.0 www.mkt3301.com
 0.0.0.0 www.mkt3312.com
 0.0.0.0 www.mkt3319.com
@@ -1000,8 +1052,10 @@
 0.0.0.0 www.mkt3331.com
 0.0.0.0 www.mkt3332.com
 0.0.0.0 www.mkt3333.com
+0.0.0.0 www.mkt3334.com
 0.0.0.0 www.mkt3342.com
 0.0.0.0 www.mkt3345.com
+0.0.0.0 www.mkt3352.com
 0.0.0.0 www.mkt3353.com
 0.0.0.0 www.mkt3363.com
 0.0.0.0 www.mkt3366.com
@@ -1035,6 +1089,7 @@
 0.0.0.0 www.mkt3511.com
 0.0.0.0 www.mkt3512.com
 0.0.0.0 www.mkt3524.com
+0.0.0.0 www.mkt3537.com
 0.0.0.0 www.mkt353.com
 0.0.0.0 www.mkt3545.com
 0.0.0.0 www.mkt3546.com
@@ -1053,6 +1108,7 @@
 0.0.0.0 www.mkt3601.com
 0.0.0.0 www.mkt3609.com
 0.0.0.0 www.mkt3615.com
+0.0.0.0 www.mkt3616.com
 0.0.0.0 www.mkt3618.com
 0.0.0.0 www.mkt3619.com
 0.0.0.0 www.mkt361.com
@@ -1069,6 +1125,7 @@
 0.0.0.0 www.mkt3663.com
 0.0.0.0 www.mkt3664.com
 0.0.0.0 www.mkt3666.com
+0.0.0.0 www.mkt3667.com
 0.0.0.0 www.mkt3668.com
 0.0.0.0 www.mkt3677.com
 0.0.0.0 www.mkt3678.com
@@ -1080,6 +1137,7 @@
 0.0.0.0 www.mkt3696.com
 0.0.0.0 www.mkt3697.com
 0.0.0.0 www.mkt3698.com
+0.0.0.0 www.mkt3703.com
 0.0.0.0 www.mkt3704.com
 0.0.0.0 www.mkt3705.com
 0.0.0.0 www.mkt3706.com
@@ -1092,6 +1150,7 @@
 0.0.0.0 www.mkt3722.com
 0.0.0.0 www.mkt3724.com
 0.0.0.0 www.mkt3726.com
+0.0.0.0 www.mkt3727.com
 0.0.0.0 www.mkt3733.com
 0.0.0.0 www.mkt3734.com
 0.0.0.0 www.mkt3738.com
@@ -1133,6 +1192,7 @@
 0.0.0.0 www.mkt3846.com
 0.0.0.0 www.mkt3851.com
 0.0.0.0 www.mkt3858.com
+0.0.0.0 www.mkt3869.com
 0.0.0.0 www.mkt3872.com
 0.0.0.0 www.mkt3873.com
 0.0.0.0 www.mkt3874.com
@@ -1140,10 +1200,12 @@
 0.0.0.0 www.mkt3880.com
 0.0.0.0 www.mkt3882.com
 0.0.0.0 www.mkt3883.com
+0.0.0.0 www.mkt3885.com
 0.0.0.0 www.mkt3887.com
 0.0.0.0 www.mkt389.com
 0.0.0.0 www.mkt3900.com
 0.0.0.0 www.mkt3902.com
+0.0.0.0 www.mkt3903.com
 0.0.0.0 www.mkt3906.com
 0.0.0.0 www.mkt3918.com
 0.0.0.0 www.mkt3919.com
@@ -1161,11 +1223,13 @@
 0.0.0.0 www.mkt3958.com
 0.0.0.0 www.mkt3968.com
 0.0.0.0 www.mkt3969.com
+0.0.0.0 www.mkt3982.com
 0.0.0.0 www.mkt3983.com
 0.0.0.0 www.mkt3988.com
 0.0.0.0 www.mkt398.com
 0.0.0.0 www.mkt3992.com
 0.0.0.0 www.mkt3994.com
+0.0.0.0 www.mkt3996.com
 0.0.0.0 www.mkt3999.com
 0.0.0.0 www.mkt4003.com
 0.0.0.0 www.mkt4009.com
@@ -1174,6 +1238,7 @@
 0.0.0.0 www.mkt4019.com
 0.0.0.0 www.mkt4030.com
 0.0.0.0 www.mkt4035.com
+0.0.0.0 www.mkt4042.com
 0.0.0.0 www.mkt4046.com
 0.0.0.0 www.mkt4047.com
 0.0.0.0 www.mkt4055.com
@@ -1188,6 +1253,7 @@
 0.0.0.0 www.mkt4077.com
 0.0.0.0 www.mkt4085.com
 0.0.0.0 www.mkt4090.com
+0.0.0.0 www.mkt4092.com
 0.0.0.0 www.mkt4093.com
 0.0.0.0 www.mkt4094.com
 0.0.0.0 www.mkt4095.com
@@ -1197,6 +1263,7 @@
 0.0.0.0 www.mkt409.com
 0.0.0.0 www.mkt4100.com
 0.0.0.0 www.mkt4101.com
+0.0.0.0 www.mkt4106.com
 0.0.0.0 www.mkt4111.com
 0.0.0.0 www.mkt411.com
 0.0.0.0 www.mkt412.com
@@ -1207,12 +1274,14 @@
 0.0.0.0 www.mkt418.com
 0.0.0.0 www.mkt419.com
 0.0.0.0 www.mkt420.com
+0.0.0.0 www.mkt424.com
 0.0.0.0 www.mkt425.com
 0.0.0.0 www.mkt427.com
 0.0.0.0 www.mkt452.com
 0.0.0.0 www.mkt460.com
 0.0.0.0 www.mkt487.com
 0.0.0.0 www.mkt5001.com
+0.0.0.0 www.mkt516.com
 0.0.0.0 www.mkt522.com
 0.0.0.0 www.mkt531.com
 0.0.0.0 www.mkt539.com
@@ -1222,6 +1291,7 @@
 0.0.0.0 www.mkt551.com
 0.0.0.0 www.mkt552.com
 0.0.0.0 www.mkt553.com
+0.0.0.0 www.mkt554.com
 0.0.0.0 www.mkt559.com
 0.0.0.0 www.mkt562.com
 0.0.0.0 www.mkt570.com
@@ -1251,6 +1321,7 @@
 0.0.0.0 www.mkt761.com
 0.0.0.0 www.mkt767.com
 0.0.0.0 www.mkt778.com
+0.0.0.0 www.mkt779.com
 0.0.0.0 www.mkt781.com
 0.0.0.0 www.mkt785.com
 0.0.0.0 www.mkt786.com
@@ -1286,13 +1357,17 @@
 0.0.0.0 www.mkt917.com
 0.0.0.0 www.mkt918.com
 0.0.0.0 www.mkt919.com
+0.0.0.0 www.mkt923.com
 0.0.0.0 www.mkt924.com
 0.0.0.0 www.mkt925.com
 0.0.0.0 www.mkt926.com
+0.0.0.0 www.mkt927.com
 0.0.0.0 www.mkt928.com
 0.0.0.0 www.mkt929.com
+0.0.0.0 www.mkt933.com
 0.0.0.0 www.mkt934.com
 0.0.0.0 www.mkt935.com
+0.0.0.0 www.mkt936.com
 0.0.0.0 www.mkt937.com
 0.0.0.0 www.mkt939.com
 0.0.0.0 www.mkt940.com
@@ -1308,9 +1383,11 @@
 0.0.0.0 www.mkt954.com
 0.0.0.0 www.mkt955.com
 0.0.0.0 www.mkt956.com
+0.0.0.0 www.mkt957.com
 0.0.0.0 www.mkt958.com
 0.0.0.0 www.mkt960.com
 0.0.0.0 www.mkt962.com
+0.0.0.0 www.mkt963.com
 0.0.0.0 www.mkt964.com
 0.0.0.0 www.mkt965.com
 0.0.0.0 www.mkt966.com
@@ -1322,6 +1399,7 @@
 0.0.0.0 www.mkt972.com
 0.0.0.0 www.mkt973.com
 0.0.0.0 www.mkt974.com
+0.0.0.0 www.mkt976.com
 0.0.0.0 www.mkt977.com
 0.0.0.0 www.mkt979.com
 0.0.0.0 www.mkt980.com
@@ -1341,8 +1419,10 @@
 0.0.0.0 www.mktoweb.com
 0.0.0.0 www.mmondi.com
 0.0.0.0 www.mmstat.com
+0.0.0.0 www.mobutrafsrcms.com
 0.0.0.0 www.mobytrks.com
 0.0.0.0 www.mojiva.com
+0.0.0.0 www.mopub.cloud
 0.0.0.0 www.mplxtms.com
 0.0.0.0 www.mxpnl.com
 0.0.0.0 www.myaudience.de
@@ -1382,16 +1462,20 @@
 0.0.0.0 www.openx.net
 0.0.0.0 www.openx.org
 0.0.0.0 www.ophan.co.uk
+0.0.0.0 www.opskln.com
 0.0.0.0 www.optimizesrv.com
 0.0.0.0 www.p161.net
 0.0.0.0 www.pagefair.net
 0.0.0.0 www.panachetech.com
 0.0.0.0 www.pc20160301.com
-0.0.0.0 www.pctupd.info
 0.0.0.0 www.pct-upd.info
+0.0.0.0 www.pctupd.info
+0.0.0.0 www.perfb.com
 0.0.0.0 www.permission-research.com
+0.0.0.0 www.permission-research.net
 0.0.0.0 www.pipeschannels.com
 0.0.0.0 www.pmpubs.com
+0.0.0.0 www.pnghst.com
 0.0.0.0 www.pointmediatracker.com
 0.0.0.0 www.po.st
 0.0.0.0 www.ppjol.net
@@ -1399,6 +1483,7 @@
 0.0.0.0 www.prnx.net
 0.0.0.0 www.pro-market.net
 0.0.0.0 www.pshtrk.com
+0.0.0.0 www.psplugin.net
 0.0.0.0 www.pubmine.com
 0.0.0.0 www.pubnation.com
 0.0.0.0 www.pubsqrd.com
@@ -1434,6 +1519,7 @@
 0.0.0.0 www.rtbc.info
 0.0.0.0 www.rtbc.mobi
 0.0.0.0 www.rtbconnect.biz
+0.0.0.0 www.rtbconnect.info
 0.0.0.0 www.rtbconnect.mobi
 0.0.0.0 www.rtbconnect.net
 0.0.0.0 www.rtbconnect.us
@@ -1445,6 +1531,7 @@
 0.0.0.0 www.rundsp.com
 0.0.0.0 www.ruralstring.com
 0.0.0.0 www.s3xified.com
+0.0.0.0 www.sail-horizon.com
 0.0.0.0 www.scenepass.com
 0.0.0.0 www.schibsted.io
 0.0.0.0 www.schibsted.media
@@ -1462,6 +1549,7 @@
 0.0.0.0 www.sidekickopen07.com
 0.0.0.0 www.sidekickopen08.com
 0.0.0.0 www.sidekickopen09.com
+0.0.0.0 www.sidekickopen10.com
 0.0.0.0 www.sidekickopen12.com
 0.0.0.0 www.sidekickopen13.com
 0.0.0.0 www.sidekickopen14.com
@@ -1487,6 +1575,7 @@
 0.0.0.0 www.sidekickopen40.com
 0.0.0.0 www.sidekickopen52.com
 0.0.0.0 www.sidekickopen53.com
+0.0.0.0 www.sidekickopen54.com
 0.0.0.0 www.sidekickopen56.com
 0.0.0.0 www.sidekickopen57.com
 0.0.0.0 www.sidekickopen58.com
@@ -1501,6 +1590,7 @@
 0.0.0.0 www.simpleheatmaps.com
 0.0.0.0 www.siteimproveanalytics.io
 0.0.0.0 www.sitescoutadserver.com
+0.0.0.0 www.sitestatapi.com
 0.0.0.0 www.sitestat.com
 0.0.0.0 www.sitestat.info
 0.0.0.0 www.skiftmedia.pt
@@ -1511,6 +1601,7 @@
 0.0.0.0 www.spendandraise.org
 0.0.0.0 www.spendnraise.org
 0.0.0.0 www.spopessentials3.com
+0.0.0.0 www.sprinkletxt.com
 0.0.0.0 www.spyvisit.com
 0.0.0.0 www.srvntrk.com
 0.0.0.0 www.streamrail.net
@@ -1523,6 +1614,7 @@
 0.0.0.0 www.tacoda.net
 0.0.0.0 www.tapas.net
 0.0.0.0 www.tapjoyads.com
+0.0.0.0 www.testanalytics.net
 0.0.0.0 www.thescv.team
 0.0.0.0 www.thetacdn.net
 0.0.0.0 www.thrtle.com
@@ -1548,11 +1640,15 @@
 0.0.0.0 www.valassisdigital.io
 0.0.0.0 www.vcmedia.vn
 0.0.0.0 www.vdna-assets.com
+0.0.0.0 www.vergic.net
 0.0.0.0 www.vergic.org
 0.0.0.0 www.verityresearchpanel.com
 0.0.0.0 www.verityresearchpanel.net
 0.0.0.0 www.videopostroll.com
+0.0.0.0 www.videopreroll.com
 0.0.0.0 www.vlitag.com
+0.0.0.0 www.volvelle.tech
+0.0.0.0 www.vvbox.cz
 0.0.0.0 www.webgains.io
 0.0.0.0 www.webrankresearch.com
 0.0.0.0 www.webrankresearch.net
@@ -1565,9 +1661,11 @@
 0.0.0.0 www.webtraffic.se
 0.0.0.0 www.wemedredmobmsmt.com
 0.0.0.0 www.wistia.net
+0.0.0.0 www.woopic.com
 0.0.0.0 www.wowcon.net
 0.0.0.0 www.wtp101.com
 0.0.0.0 www.wwwpromoter.com
+0.0.0.0 www.wywy.com
 0.0.0.0 www.xct33.net
 0.0.0.0 www.yieldoptimizer.com
 0.0.0.0 www.yjoiunf.com
