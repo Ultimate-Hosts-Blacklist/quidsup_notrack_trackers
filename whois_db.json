@@ -42580,8 +42580,8 @@
         "state": "future"
     },
     "mkt700.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "mkt7000.com": {
@@ -44560,8 +44560,8 @@
         "state": "future"
     },
     "mkt736.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "mkt7360.com": {
@@ -64417,6 +64417,11 @@
     "zsj18.com": {
         "epoch": 1609200000.0,
         "expiration_date": "29-dec-2020",
+        "state": "future"
+    },
+    "zupml.com": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     }
 }
