@@ -1134,6 +1134,11 @@
         "expiration_date": "22-nov-2020",
         "state": "future"
     },
+    "adstir.com": {
+        "epoch": 1649808000.0,
+        "expiration_date": "13-apr-2022",
+        "state": "future"
+    },
     "adsupply.com": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
@@ -47705,8 +47710,8 @@
         "state": "future"
     },
     "mkt793.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "mkt7930.com": {
