@@ -1874,6 +1874,11 @@
         "expiration_date": "17-feb-2021",
         "state": "future"
     },
+    "aqcxa.com": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
     "aracea.com": {
         "epoch": 1613174400.0,
         "expiration_date": "13-feb-2021",
@@ -4277,6 +4282,11 @@
     "eepurl.com": {
         "epoch": 1608595200.0,
         "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
+    "efeedbacktrk.com": {
+        "epoch": 1778025600.0,
+        "expiration_date": "06-may-2026",
         "state": "future"
     },
     "effectivemeasure.com": {
@@ -47585,8 +47595,8 @@
         "state": "future"
     },
     "mkt791.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "mkt7910.com": {
