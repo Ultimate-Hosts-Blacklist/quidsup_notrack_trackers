@@ -5324,6 +5324,11 @@
         "expiration_date": "10-oct-2024",
         "state": "future"
     },
+    "gixioanalytics.com": {
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
+        "state": "future"
+    },
     "glam.com": {
         "epoch": 1625356800.0,
         "expiration_date": "04-jul-2021",
@@ -5437,7 +5442,7 @@
     "got2sell.co": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "gotraffic.net": {
         "epoch": 1615075200.0,
@@ -47435,8 +47440,8 @@
         "state": "future"
     },
     "mkt788.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "mkt7880.com": {
