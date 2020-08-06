@@ -4320,8 +4320,8 @@
         "state": "future"
     },
     "effectivemeasure.com": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
         "state": "future"
     },
     "effectivemeasure.net": {
@@ -63125,8 +63125,8 @@
         "state": "future"
     },
     "trackerrysrv.com": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
         "state": "future"
     },
     "trackinglove.com": {
@@ -63307,7 +63307,7 @@
     "trvdp.com": {
         "epoch": 1596672000.0,
         "expiration_date": "06-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "trychameleon.com": {
         "epoch": 1607731200.0,
