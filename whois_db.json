@@ -1195,9 +1195,9 @@
         "state": "future"
     },
     "adtilt.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
-        "state": "past"
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
+        "state": "future"
     },
     "adtng.com": {
         "epoch": 1626739200.0,
@@ -2282,6 +2282,11 @@
     "billyrtb.com": {
         "epoch": 1615075200.0,
         "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
+    "bilsyndication.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "bingads.com": {
@@ -6887,6 +6892,11 @@
     "mandrillapp.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
+    "marchex.io": {
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
         "state": "future"
     },
     "marinsm.com": {
