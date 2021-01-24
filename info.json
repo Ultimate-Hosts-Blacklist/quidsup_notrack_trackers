@@ -1,40 +1,18 @@
 {
-    "current_stats": {
-        "builds": 2962,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "malicious": 0,
-            "sane": 0,
-            "tested": 0,
-            "up": 0,
-            "valid": 0
-        },
-        "volatile.list": 24185,
-        "whitelisted.list": 24184
-    },
     "currently_under_test": true,
+    "custom_pyfunceble_config": {},
     "days_until_next_test": 2,
     "end_datetime": "2020-03-03T15:55:19.744877",
     "end_epoch": 1582975300.710035,
     "issue_link": "https://gitlab.com/quidsup/notrack-blocklists/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=",
-    "last_autosave_datetime": "2020-03-03T15:55:19.744896",
-    "last_autosave_epoch": 1583245184.089674,
     "link": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt",
     "name": "quidsup_notrack_trackers",
-    "previous_stats": {
-        "builds": 30,
-        "clean.list": 24348,
-        "counter": {
-            "down": 2293,
-            "invalid": 0,
-            "tested": 26641,
-            "up": 24348
-        },
-        "domains.list": 26641,
-        "ip.list": 0,
-        "volatile.list": 24345,
-        "whitelisted.list": 24344
+    "previous_end_datetime": "2020-01-25T04:17:07.672475",
+    "previous_end_epoch": 1579925827.672478,
+    "previous_start_datetime": "2020-01-25T04:17:07.672464",
+    "previous_start_epoch": 1579925827.672477,
+    "pyfunceble": {
+        "config": {}
     },
     "raw_link": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt",
     "start_datetime": "2020-03-03T15:55:19.749373",
