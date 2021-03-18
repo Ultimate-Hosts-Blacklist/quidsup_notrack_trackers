@@ -682,6 +682,9 @@
         "net.bt",
         "org.bt"
     ],
+    "builders": [
+        "cloudsite.builders"
+    ],
     "business": [
         "co.business"
     ],
@@ -840,13 +843,13 @@
         "net.cm"
     ],
     "cn": [
+        "mil.cn",
         "ac.cn",
         "com.cn",
         "edu.cn",
         "gov.cn",
         "net.cn",
         "org.cn",
-        "mil.cn",
         "xn--55qx5d.cn",
         "xn--io0a7i.cn",
         "xn--od0alg.cn",
@@ -1005,7 +1008,9 @@
         "myasustor.com",
         "balena-devices.com",
         "betainabox.com",
+        "boutir.com",
         "bplaced.com",
+        "cafjs.com",
         "br.com",
         "cn.com",
         "de.com",
@@ -1340,6 +1345,8 @@
         "platter-app.com",
         "pleskns.com",
         "xen.prgmr.com",
+        "pythonanywhere.com",
+        "eu.pythonanywhere.com",
         "qualifioapp.com",
         "qbuser.com",
         "qa2.com",
@@ -1531,7 +1538,9 @@
     ],
     "dev": [
         "lcl.dev",
+        "lclstage.dev",
         "stg.dev",
+        "stgstage.dev",
         "pages.dev",
         "workers.dev",
         "curv.dev",
@@ -6708,7 +6717,8 @@
     "page": [
         "pdns.page",
         "plesk.page",
-        "prvcy.page"
+        "prvcy.page",
+        "magnet.page"
     ],
     "party": [
         "ybo.party"
@@ -7229,7 +7239,8 @@
     ],
     "scot": [
         "edu.scot",
-        "gov.scot"
+        "gov.scot",
+        "service.gov.scot"
     ],
     "sd": [
         "com.sd",
@@ -7338,6 +7349,7 @@
         "opensocial.site",
         "platformsh.site",
         "byen.site",
+        "srht.site",
         "mintere.site"
     ],
     "sk": [
