@@ -1,8 +1,8 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2021-07-05T13:44:51.029092",
-    "end_epoch": 1625492691.029092,
+    "end_datetime": "2021-07-06T06:36:38.151764",
+    "end_epoch": 1625553398.151764,
     "issue_link": "https://gitlab.com/quidsup/notrack-blocklists/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=",
     "link": "https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list",
     "name": "quidsup_notrack_trackers",
