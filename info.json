@@ -1,19 +1,19 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "days_until_next_test": 2,
     "end_datetime": "2021-07-05T13:44:51.029092",
     "end_epoch": 1625492691.029092,
     "issue_link": "https://gitlab.com/quidsup/notrack-blocklists/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=",
     "link": "https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list",
     "name": "quidsup_notrack_trackers",
-    "previous_end_datetime": "2021-07-04T06:26:18.942799",
-    "previous_end_epoch": 1625379978.942799,
-    "previous_start_datetime": "2021-03-25T01:01:54.456740",
-    "previous_start_epoch": 1616634114.45674,
+    "previous_end_datetime": "2021-07-05T13:44:51.029092",
+    "previous_end_epoch": 1625492691.029092,
+    "previous_start_datetime": "2021-07-05T02:57:24.245984",
+    "previous_start_epoch": 1625453844.245984,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list",
-    "start_datetime": "2021-07-05T02:57:24.245984",
-    "start_epoch": 1625453844.245984
+    "start_datetime": "2021-07-06T02:47:46.136139",
+    "start_epoch": 1625539666.136139
 }
