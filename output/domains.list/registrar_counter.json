@@ -1,24 +1,28 @@
 {
     "counter": {
+        "1API GmbH": 1,
         "Alibaba Cloud Computing (Beijing) Co., Ltd.": 1,
         "Amazon Registrar, Inc.": 1,
         "CSC Corporate Domains, Inc.": 1,
         "GoDaddy.com, LLC": 1,
-        "MarkMonitor Inc.": 11,
+        "MarkMonitor Inc.": 12,
+        "Moniker Online Services LLC": 1,
         "NameCheap, Inc.": 1,
         "Network Solutions, LLC": 1,
         "TLDS L.L.C. d/b/a SRSPlus": 1,
-        "total": 18
+        "total": 21
     },
     "percentage": {
-        "Alibaba Cloud Computing (Beijing) Co., Ltd.": 5.555555555555555,
-        "Amazon Registrar, Inc.": 5.555555555555555,
-        "CSC Corporate Domains, Inc.": 5.555555555555555,
-        "GoDaddy.com, LLC": 5.555555555555555,
-        "MarkMonitor Inc.": 61.111111111111114,
-        "NameCheap, Inc.": 5.555555555555555,
-        "Network Solutions, LLC": 5.555555555555555,
-        "TLDS L.L.C. d/b/a SRSPlus": 5.555555555555555,
-        "total": 100.00000000000001
+        "1API GmbH": 4.761904761904762,
+        "Alibaba Cloud Computing (Beijing) Co., Ltd.": 4.761904761904762,
+        "Amazon Registrar, Inc.": 4.761904761904762,
+        "CSC Corporate Domains, Inc.": 4.761904761904762,
+        "GoDaddy.com, LLC": 4.761904761904762,
+        "MarkMonitor Inc.": 57.142857142857146,
+        "Moniker Online Services LLC": 4.761904761904762,
+        "NameCheap, Inc.": 4.761904761904762,
+        "Network Solutions, LLC": 4.761904761904762,
+        "TLDS L.L.C. d/b/a SRSPlus": 4.761904761904762,
+        "total": 100.0
     }
 }
