@@ -5833,6 +5833,7 @@
         "jls-sto2.elastx.net",
         "jls-sto3.elastx.net",
         "jp.net",
+        "js.wpenginepowered.com",
         "kicks-ass.net",
         "kinghost.net",
         "knx-server.net",
@@ -7647,9 +7648,12 @@
         "vps.myjino.ru"
     ],
     "run": [
+        "build.run",
         "code.run",
+        "database.run",
         "development.run",
         "hs.run",
+        "migration.run",
         "onporter.run",
         "ravendb.run",
         "repl.run",
