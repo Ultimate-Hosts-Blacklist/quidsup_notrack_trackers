@@ -5767,6 +5767,7 @@
         "nom.nc"
     ],
     "net": [
+        "1.azurestaticapps.net",
         "a.prod.fastly.net",
         "a.ssl.fastly.net",
         "adobeaemcloud.net",
@@ -6959,8 +6960,7 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "shacknet.nu",
-        "storebase.store"
+        "shacknet.nu"
     ],
     "nz": [
         "ac.nz",
@@ -7916,7 +7916,8 @@
     ],
     "store": [
         "sellfy.store",
-        "shopware.store"
+        "shopware.store",
+        "storebase.store"
     ],
     "su": [
         "abkhazia.su",
